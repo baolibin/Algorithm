@@ -1,1 +1,6 @@
-#leetCode | 剑指 offer | 以及基本算法
+
+# 基本算法练习
+
+* 基本算法  
+* leetCode  
+* 剑指offer  
