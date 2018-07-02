@@ -19,8 +19,8 @@ public class _001_Two_Sum {
 
 	public static void main(String[] args) {
 		int[] nums ={2, 7, 11, 15, 16};
-		Solution solution = new Solution();
-		int[] result = solution.twoSum(nums, 18);
+		Solution5 solution = new Solution5();
+		int[] result =new Solution1().twoSum(nums, 18);
 		System.out.println("["+result[0]+","+result[1]+"]");
 	}
 
@@ -29,7 +29,7 @@ public class _001_Two_Sum {
  * Time complexity : O(n)O(n)
  * Space complexity : O(n)O(n)
  */
-class Solution {
+class Solution1 {
     public int[] twoSum(int[] nums, int target) {
     	int[] res={0,0};
     	HashMap<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
