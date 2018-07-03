@@ -1,4 +1,4 @@
-package libin.general.other.basic;
+package libin.general._07_dp;
 /**
  * 8皇后.
  */

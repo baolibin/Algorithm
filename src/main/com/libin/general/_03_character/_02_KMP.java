@@ -1,4 +1,4 @@
-package libin.general.other.basic;
+package libin.general._03_character;
 /**
  * KMP算法
  * @author baolibin

@@ -1,4 +1,4 @@
-package libin.general.other.basic;
+package libin.general._03_character;
 
 /**
  * Copyright (c) 2018/7/2. xixi Inc. All Rights Reserved.

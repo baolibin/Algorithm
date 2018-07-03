@@ -1,4 +1,4 @@
-package libin.general.other.basic;
+package libin.general._04_tree;
 
 import java.util.HashMap;
 import java.util.Map;

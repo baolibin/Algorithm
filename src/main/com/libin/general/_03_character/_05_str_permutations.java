@@ -1,4 +1,4 @@
-package libin.general.other.basic;
+package libin.general._03_character;
 /**
  * 字符串全排列
  * 1、递归，不重复

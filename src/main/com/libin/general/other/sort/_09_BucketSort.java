@@ -1,4 +1,4 @@
-package libin.general.other.basic;
+package libin.general.other.sort;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

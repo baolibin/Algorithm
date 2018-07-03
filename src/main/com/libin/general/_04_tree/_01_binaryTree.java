@@ -1,4 +1,4 @@
-package libin.general.tree;
+package libin.general._04_tree;
 
 import java.util.ArrayList;
 import java.util.List;

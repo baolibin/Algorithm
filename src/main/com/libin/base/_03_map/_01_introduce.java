@@ -35,8 +35,8 @@ hashSet的实现原理：
 public class _01_introduce {
 	public static void main(String[] args) {
 		String str1 = "hello";
-		String str2 = new String("hello");
-		System.out.println("两个是同一个对象吗？"+(str1==str2));
+		String str2 = "hello";
+		System.out.println("两个是同一个对象吗？"+(str1.equals(str2)));
 		System.out.println("str1的hashCode："+ str1.hashCode());
 		System.out.println("str2的hashCode:"+ str2.hashCode());
 	}

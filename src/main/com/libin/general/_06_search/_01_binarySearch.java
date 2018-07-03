@@ -1,4 +1,4 @@
-package libin.general.other.basic;
+package libin.general._06_search;
 /**
  * 二分查找
  * @author baolibin

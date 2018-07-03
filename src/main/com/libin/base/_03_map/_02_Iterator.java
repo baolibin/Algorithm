@@ -17,9 +17,8 @@ public class _02_Iterator {
 		treeSet.add("apache");
 		treeSet.add("hive");
 		treeSet.add("hbase");
-		Iterator<String> it=treeSet.iterator();
-		while(it.hasNext()){
-			System.out.print(it.next()+"、");
+		for (String aTreeSet : treeSet) {
+			System.out.print(aTreeSet + "、");
 		}
 	}
 }

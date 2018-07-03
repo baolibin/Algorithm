@@ -1,4 +1,4 @@
-package libin.general.other.array_linked;
+package libin.general._02_linked;
 
 import java.util.Stack;
 
