@@ -19,7 +19,7 @@ public class _11_Trie {
     public void insert(String word) {
         TrieNode node = root;
         for (int i = 0; i < word.length(); i++) {
-            Character c = new Character(word.charAt(i));
+            Character c = word.charAt(i);
             if (!node.childdren.containsKey(c)) {
                 node.childdren.put(c, new TrieNode());
             }
@@ -33,31 +33,29 @@ public class _11_Trie {
      */
     public boolean search(String word) {
         TrieNode node = root;
-        boolean found = true;
         for (int i = 0; i < word.length(); i++) {
-            Character c = new Character(word.charAt(i));
+            Character c = word.charAt(i);
             if (!node.childdren.containsKey(c)) {
                 return false;
             }
             node = node.childdren.get(c);
         }
         System.out.println("单词"+word+"的个数为:"+node.count);
-        return found && node.wordEnd;
+        return node.wordEnd;
     }
     /**
      * 查找前缀
      */
     public boolean startsWith(String prefix) {
         TrieNode node = root;
-        boolean found = true;
         for (int i = 0; i < prefix.length(); i++) {
-            Character c = new Character(prefix.charAt(i));
+            Character c = prefix.charAt(i);
             if (!node.childdren.containsKey(c)) {
                 return false;
             }
             node = node.childdren.get(c);
         }
-        return found;
+        return true;
     }
     /**
      * 主方法
