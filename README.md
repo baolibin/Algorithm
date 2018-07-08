@@ -1,10 +1,76 @@
 
 # 基本算法练习
 
-* 基本算法  
-* leetCode  
-* 剑指offer  
-[二维数据查找](src/main/com/libin/offer/_03_array.java)
+### 基本算法  
+### leetCode
+  
+
+### 剑指offer  
+
+* [二维数据查找](src/main/com/libin/offer/_03_array.java)  
+* [替换字符](src/main/com/libin/offer/_04_String.java)  
+* [从尾到头打印链表](src/main/com/libin/offer/_05_linked.java)  
+* [重建二叉树](src/main/com/libin/offer/_06_binaryTree.java)  
+* [用两个栈实现队列](src/main/com/libin/offer/_07_twoStack.java)  
+* [旋转数组的最小值](src/main/com/libin/offer/_08_rotateArray.java)  
+* [跳台阶](src/main/com/libin/offer/_09_2_frog.java)  
+* [菲波那切数列](src/main/com/libin/offer/_09_Fibonacci.java)  
+* [二进制中1的个数](src/main/com/libin/offer/_10_binary.java)  
+* [数值的整数次方](src/main/com/libin/offer/_11_power.java)  
+* [调整数组顺序使奇数位于偶数的前面](src/main/com/libin/offer/_14_adjustArray.java)  
+* [链表中倒数第K个节点](src/main/com/libin/offer/_15_linked_K.java)  
+* [反转链表](src/main/com/libin/offer/_16_linked_reversal.java)  
+* [合并两个排序的链表](src/main/com/libin/offer/_17_merge_Linked.java)  
+* [树的子结构](src/main/com/libin/offer/_18_tree_structure.java)  
+* [二叉树的镜像](src/main/com/libin/offer/_19_tree_mirror.java)  
+* [顺时针打印矩阵](src/main/com/libin/offer/_20_printMatrix.java)  
+* [包含min函数的栈](src/main/com/libin/offer/_21_min_stack.java)  
+* [栈的压入、弹出序列](src/main/com/libin/offer/_22_stack_push_pop.java)  
+* [从上往下打印二叉树](src/main/com/libin/offer/_23_print_binary_tree.java)  
+* [二叉搜索树的后序遍历序列](src/main/com/libin/offer/_24_binary_tree_postorder.java)  
+* [二叉树中和为某一个定值的路径](src/main/com/libin/offer/_25_binary_tree_path.java)  
+* [复杂链表的复制](src/main/com/libin/offer/_26_linked_copy.java)  
+* [二叉搜索树与双向链表](src/main/com/libin/offer/_27_tree_to_linked.java)  
+* [字符串的排列](src/main/com/libin/offer/_28_full_permutation.java)  
+* [数组中出现次数超过一半的数字](src/main/com/libin/offer/_29_num_times.java)  
+* [最小的K个数](src/main/com/libin/offer/_30_min_k_num.java)  
+* [连续子数组的最大和](src/main/com/libin/offer/_31_num_series_sum.java)  
+* [从1到n整数中1出现的次数](src/main/com/libin/offer/_32_num_1_times.java)  
+* [把数组排成最小的数](src/main/com/libin/offer/_33_min_array.java)  
+* [丑数](src/main/com/libin/offer/_34_ugly_number.java)  
+* [第一个只出现一次的字符](src/main/com/libin/offer/_35_first_str.java)  
+* [数组中的逆序对](src/main/com/libin/offer/_36_array_reversed.java)  
+* [两个链表的第一个公共结点](src/main/com/libin/offer/_37_linked_common.java)  
+* [数字在排序数组中出现的次数](src/main/com/libin/offer/_38_sort_num_times.java)  
+* [平衡二叉树](src/main/com/libin/offer/_39_2_avl.java)  
+* [二叉树的深度](src/main/com/libin/offer/_39_binaryTree_deep.java)  
+* [数组中只出现一次的数字](src/main/com/libin/offer/_40_num_one_times.java)  
+* [和为S的连续正数序列](src/main/com/libin/offer/_41_2_keepseried.java)  
+* [和为S的两个数](src/main/com/libin/offer/_41_sum_s.java)  
+* [字符串左旋转](src/main/com/libin/offer/_42_str_left.java)  
+* [扑克牌顺子](src/main/com/libin/offer/_44_five_num.java)  
+* [圆圈中最后剩下的数字](src/main/com/libin/offer/_45_last_num.java)  
+* [求1+2+...+n](src/main/com/libin/offer/_46_n_sum.java)  
+* [不用加减乘除做加法](src/main/com/libin/offer/_47_sum_no_add.java)  
+* [把字符串转换为整数](src/main/com/libin/offer/_49_str_to_num.java)  
+* [数组中重复的数字](src/main/com/libin/offer/_51_array_repeat_num.java)  
+* [构建成绩数组](src/main/com/libin/offer/_52_array_product.java)  
+* [正则表达式匹配](src/main/com/libin/offer/_53_regular_match.java)  
+* [表示数值的字符串](src/main/com/libin/offer/_54_num_yes_no.java)  
+* [字符流中第一个不重复的字符](src/main/com/libin/offer/_55_first_num.java)  
+* [链表中环的入口结点](src/main/com/libin/offer/_56_hoop_start.java)  
+* [删除链表中重复的结点](src/main/com/libin/offer/_57_linked_remove_repeat.java)  
+* [二叉树的下一个节点](src/main/com/libin/offer/_58_next_node.java)  
+* [对称的二叉树](src/main/com/libin/offer/_59_symmetry.java)  
+* [把二叉树打印成多行](src/main/com/libin/offer/_60_binary_print_rows.java)  
+* [按之字形顺序打印二叉树](src/main/com/libin/offer/_61_font.java)  
+* [序列化二叉树](src/main/com/libin/offer/_62_seriailze_binaryTree.java)  
+* [二叉搜索树的第k个结点](src/main/com/libin/offer/_63_binary_k_num.java)  
+* [数据流中的中位数](src/main/com/libin/offer/_64_middle_num.java)  
+* [滑动数组的最大值](src/main/com/libin/offer/_65_slip_num_max.java)  
+* [矩阵中的路径](src/main/com/libin/offer/_66_matrix_path.java)  
+* [机器人的运动范围](src/main/com/libin/offer/_67_robot_range.java)  
+
 
 
 
