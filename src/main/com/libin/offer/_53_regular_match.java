@@ -30,6 +30,7 @@ class Solution53 {
 		if (index2 + 1 < pattern.length && pattern[index2 + 1] == '*') {
 			if ((str.length != index1 && str[index1] == pattern[index2])
 					|| ((str.length != index1 && pattern[index2] == '.'))) {
+				// *匹配0、1、多个情况
 				return 	getMatch(str, pattern, index1, index2 + 2) 
 						|| getMatch(str, pattern, index1 + 1, index2 + 2)
 						|| getMatch(str, pattern, index1 + 1, index2);
