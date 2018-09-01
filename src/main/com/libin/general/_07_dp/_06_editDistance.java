@@ -7,5 +7,8 @@ package libin.general._07_dp;
  * Purpose : 编辑距离(Edit Distance)
  */
 
-public class _06_EditDistance {
+class _06_EditDistance {
+    public static void main(String[] args){
+
+    }
 }
