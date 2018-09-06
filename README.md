@@ -2,11 +2,21 @@
 # 基本算法练习
 
 ### 基本算法  
+* [数组](src/main/com/libin/general/_01_array)
+* [链表](src/main/com/libin/general/_02_linked)
+* [字符串](src/main/com/libin/general/_03_character)
+* [树](src/main/com/libin/general/_04_tree)
+* [图](src/main/com/libin/general/_05_graph)
+* [查找](src/main/com/libin/general/_06_search)
+* [动态规划](src/main/com/libin/general/_07_dp)
+* [海量数据](src/main/com/libin/general/_08_massDate)
+* [排序算法](src/main/com/libin/general/_09_sort)
+* [机器学习](src/main/com/libin/general/_10_machine)
+
 ### leetCode
-  
+* [刷题](src/main/com/libin/leetcode)
 
 ### 剑指offer  
-
 * [二维数据查找](src/main/com/libin/offer/_03_array.java)  
 * [替换字符](src/main/com/libin/offer/_04_String.java)  
 * [从尾到头打印链表](src/main/com/libin/offer/_05_linked.java)  
@@ -70,7 +80,3 @@
 * [滑动数组的最大值](src/main/com/libin/offer/_65_slip_num_max.java)  
 * [矩阵中的路径](src/main/com/libin/offer/_66_matrix_path.java)  
 * [机器人的运动范围](src/main/com/libin/offer/_67_robot_range.java)  
-
-
-
-
