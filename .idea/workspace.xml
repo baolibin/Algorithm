@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_994_Rotting_Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_994_Rotting_Oranges.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,27 +112,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="12" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="12" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="379" />
+          <entry key="java" value="1307" />
           <entry key="md" value="1330" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="379" />
+          <entry key="JAVA" value="1307" />
           <entry key="Markdown" value="1330" />
           <entry key="PLAIN_TEXT" value="30" />
         </counts>
@@ -144,13 +144,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+            <state relative-caret-position="665">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_994_Rotting_Oranges.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#534#540#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -179,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/com/libin/offer/_53_regular_match.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_05_graph/_01_DFS.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_05_graph/_02_BFS.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_04_tree/_01_binaryTree.java" />
@@ -230,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_04_tree/_03_AVL.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_04_tree/README.md" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_994_Rotting_Oranges.java" />
       </list>
     </option>
   </component>
@@ -359,7 +372,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552794303490" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552801844217" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -390,7 +403,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._993_Cousins_in_Binary_Tree">
+  <component name="RunManager" selected="Application._994_Rotting_Oranges">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -566,13 +579,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_treeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.base._03_map._07_treeSet" />
+    <configuration name="_993_Cousins_in_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libin.leetcode._993_Cousins_in_Binary_Tree" />
       <module name="studyMaven" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="libin.base._03_map.*" />
+          <option name="PATTERN" value="libin.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -580,8 +593,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_993_Cousins_in_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.leetcode._993_Cousins_in_Binary_Tree" />
+    <configuration name="_994_Rotting_Oranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libin.leetcode._994_Rotting_Oranges" />
       <module name="studyMaven" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -685,19 +698,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.studyMaven" />
-      <item itemvalue="Application._07_treeSet" />
       <item itemvalue="Application.Crypto" />
       <item itemvalue="Application.LRUCache" />
       <item itemvalue="Application._02_BST" />
       <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
+      <item itemvalue="Application._994_Rotting_Oranges" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._994_Rotting_Oranges" />
         <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
         <item itemvalue="Application._02_BST" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Crypto" />
-        <item itemvalue="Application._07_treeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -887,7 +900,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552787570725</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update">
+      <created>1552794535223</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1552794535223</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -904,8 +924,8 @@
       <window_info anchor="bottom" id="Console" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.329582" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.84219" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.2190016" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
@@ -989,13 +1009,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/com/libin/general/_03_character/_04_KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/general/_03_character/_03_palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1251,13 +1264,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_994_Rotting_Oranges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_997_Find_the_Town_Judge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1288,10 +1294,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        <state relative-caret-position="665">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="193" column="23" selection-start-line="193" selection-start-column="23" selection-end-line="193" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_994_Rotting_Oranges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#534#540#0" expanded="true" />
           </folding>
         </state>
       </provider>
