@@ -7,7 +7,7 @@ import java.util.Queue;
  * Copyright (c) 2019/03/13. xixi Inc. All Rights Reserved.
  * Authors: libin <2578858653@qq.com>
  * <p>
- * Purpose :
+ * Purpose : 求堂兄弟节点,两个节点深度一样,且父节点不一样
  * Input: root = [1,2,3,null,4,null,5], x = 5, y = 4
  * Output: true
  */
