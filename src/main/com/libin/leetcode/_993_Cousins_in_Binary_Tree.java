@@ -24,16 +24,30 @@ public class _993_Cousins_in_Binary_Tree {
         System.out.println(cousinsCousins);
     }
 
+    private int xLevel = 0;
+    private int yLevel = 0;
+    private TreeNode_993 xParent = null;
+    private TreeNode_993 yParent = null;
+
     public boolean isCousins(TreeNode_993 root, int x, int y) {
-        Queue<TreeNode_993> queue = new LinkedList<TreeNode_993>();
-        queue.add(root);
+        searchCousins(root, x, y, 0, null);
+        return xLevel == yLevel && xParent != yParent;
+    }
 
-
-        return false;
+    private void searchCousins(TreeNode_993 root, int x, int y, int level, TreeNode_993 parent) {
+        if (root == null) return;
+        if (root.val == x) {
+            xLevel = level;
+            xParent = parent;
+        }
+        if (root.val == y) {
+            yLevel = level;
+            yParent = parent;
+        }
+        searchCousins(root.left, x, y, level + 1, root);
+        searchCousins(root.right, x, y, level + 1, root);
     }
 }
-
-
 class TreeNode_993 {
     int val;
     TreeNode_993 left;

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,11 +102,12 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -123,14 +125,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="91" />
+          <entry key="java" value="379" />
           <entry key="md" value="1330" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="91" />
+          <entry key="JAVA" value="379" />
           <entry key="Markdown" value="1330" />
           <entry key="PLAIN_TEXT" value="30" />
         </counts>
@@ -145,8 +147,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="454">
+              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -299,7 +301,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,11 +354,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552572912168" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552794303490" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -388,7 +390,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.studyMaven">
+  <component name="RunManager" selected="Application._993_Cousins_in_Binary_Tree">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -578,13 +580,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_25_binary_tree_path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.offer._25_binary_tree_path" />
+    <configuration name="_993_Cousins_in_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libin.leetcode._993_Cousins_in_Binary_Tree" />
       <module name="studyMaven" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="libin.offer.*" />
+          <option name="PATTERN" value="libin.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -683,19 +685,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.studyMaven" />
-      <item itemvalue="Application._25_binary_tree_path" />
       <item itemvalue="Application._07_treeSet" />
       <item itemvalue="Application.Crypto" />
       <item itemvalue="Application.LRUCache" />
       <item itemvalue="Application._02_BST" />
+      <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
         <item itemvalue="Application._02_BST" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Crypto" />
         <item itemvalue="Application._07_treeSet" />
-        <item itemvalue="Application._25_binary_tree_path" />
       </list>
     </recent_temporary>
   </component>
@@ -878,14 +880,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552572821450</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update">
+      <created>1552787570725</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1552787570725</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="767" y="61" width="451" height="953" id="Project" order="0" visible="true" weight="0.2806354" />
+      <window_info content_ui="combo" x="767" y="61" width="451" height="953" id="Project" order="0" visible="true" weight="0.28517398" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -895,7 +904,7 @@
       <window_info anchor="bottom" id="Console" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.329582" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.84375" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.84219" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -1279,8 +1288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_993_Cousins_in_Binary_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="454">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
