@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_998_Maximum_Binary_Tree_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_998_Maximum_Binary_Tree_II.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,7 +100,7 @@
     <session id="2045543074">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.41" value="1" />
@@ -147,8 +146,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_998_Maximum_Binary_Tree_II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+            <state relative-caret-position="152">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
               <folding>
                 <element signature="e#358#359#0" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
@@ -360,7 +359,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552813439440" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552913224823" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -923,12 +922,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552811956952</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update">
+      <created>1552813470564</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1552813470564</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="767" y="61" width="451" height="953" id="Project" order="0" visible="true" weight="0.28517398" />
       <window_info id="Designer" order="1" />
@@ -1335,8 +1340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_998_Maximum_Binary_Tree_II.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="152">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
           <folding>
             <element signature="e#358#359#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
