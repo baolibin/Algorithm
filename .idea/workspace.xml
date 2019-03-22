@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -127,14 +127,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="38" />
-          <entry key="java" value="3292" />
+          <entry key="java" value="3903" />
           <entry key="md" value="1330" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3292" />
+          <entry key="JAVA" value="3903" />
           <entry key="Markdown" value="1330" />
           <entry key="PLAIN_TEXT" value="48" />
         </counts>
@@ -173,20 +173,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="221">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#441#459#0" expanded="true" />
+                <element signature="e#847#856#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="646">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -271,9 +278,9 @@
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_654_MaximumBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_998_Maximum_Binary_Tree_II.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_908_SmallestRangeI.java" />
-        <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_922_Sort_Array_By_Parity_II.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java" />
+        <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java" />
       </list>
     </option>
   </component>
@@ -404,7 +411,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553265956540" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553267915628" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -435,7 +442,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._997_Find_the_Town_Judge">
+  <component name="RunManager" selected="Application._914_X_of_a_Kind_in_a_Deck_of_Cards">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -569,20 +576,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.base.LRUCache" />
-      <module name="studyMaven" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="libin.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_02_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="libin.general._04_tree._02_BST" />
       <module name="studyMaven" />
@@ -590,6 +583,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="libin.general._04_tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_914_X_of_a_Kind_in_a_Deck_of_Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libin.leetcode._914_X_of_a_Kind_in_a_Deck_of_Cards" />
+      <module name="studyMaven" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="libin.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -730,19 +737,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.studyMaven" />
-      <item itemvalue="Application.LRUCache" />
       <item itemvalue="Application._02_BST" />
       <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
       <item itemvalue="Application._994_Rotting_Oranges" />
       <item itemvalue="Application._997_Find_the_Town_Judge" />
+      <item itemvalue="Application._914_X_of_a_Kind_in_a_Deck_of_Cards" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._914_X_of_a_Kind_in_a_Deck_of_Cards" />
         <item itemvalue="Application._997_Find_the_Town_Judge" />
         <item itemvalue="Application._994_Rotting_Oranges" />
         <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
         <item itemvalue="Application._02_BST" />
-        <item itemvalue="Application.LRUCache" />
       </list>
     </recent_temporary>
   </component>
@@ -1016,14 +1023,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553264338284</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="update">
+      <created>1553265993103</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1553265993103</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="767" y="61" width="451" height="953" id="Project" order="0" visible="true" weight="0.30332828" />
+      <window_info content_ui="combo" x="767" y="61" width="451" height="953" id="Project" order="0" visible="true" weight="0.30332828" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1033,7 +1047,7 @@
       <window_info anchor="bottom" id="Console" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.329582" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.25281805" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.25281805" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -1408,17 +1422,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="646">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="221">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#441#459#0" expanded="true" />
+            <element signature="e#847#856#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
