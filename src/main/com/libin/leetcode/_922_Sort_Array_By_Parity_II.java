@@ -7,4 +7,8 @@ package libin.leetcode;
  * Purpose :
  */
 public class _922_Sort_Array_By_Parity_II {
+    public int[] sortArrayByParityII(int[] A) {
+
+        return null;
+    }
 }
