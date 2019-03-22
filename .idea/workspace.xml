@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_925_Long_Pressed_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_925_Long_Pressed_Name.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -114,27 +114,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="26" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="26" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="38" />
-          <entry key="java" value="3903" />
+          <entry key="java" value="4458" />
           <entry key="md" value="1330" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3903" />
+          <entry key="JAVA" value="4458" />
           <entry key="Markdown" value="1330" />
           <entry key="PLAIN_TEXT" value="48" />
         </counts>
@@ -173,10 +173,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="-19">
               <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -192,8 +192,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="76">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -203,6 +203,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_925_Long_Pressed_Name.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -230,7 +239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/com/libin/general/_04_tree/_09_LSM.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_04_tree/_10_Trie.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_05_graph/README.md" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_03_character/_04_KMP.java" />
@@ -281,6 +289,7 @@
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_922_Sort_Array_By_Parity_II.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java" />
+        <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_925_Long_Pressed_Name.java" />
       </list>
     </option>
   </component>
@@ -411,7 +420,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553267915628" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553269738317" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -442,7 +451,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._914_X_of_a_Kind_in_a_Deck_of_Cards">
+  <component name="RunManager" selected="Application._925_Long_Pressed_Name">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -576,13 +585,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.general._04_tree._02_BST" />
+    <configuration name="_914_X_of_a_Kind_in_a_Deck_of_Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libin.leetcode._914_X_of_a_Kind_in_a_Deck_of_Cards" />
       <module name="studyMaven" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="libin.general._04_tree.*" />
+          <option name="PATTERN" value="libin.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -590,8 +599,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_914_X_of_a_Kind_in_a_Deck_of_Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.leetcode._914_X_of_a_Kind_in_a_Deck_of_Cards" />
+    <configuration name="_925_Long_Pressed_Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libin.leetcode._925_Long_Pressed_Name" />
       <module name="studyMaven" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -737,19 +746,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.studyMaven" />
-      <item itemvalue="Application._02_BST" />
       <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
       <item itemvalue="Application._994_Rotting_Oranges" />
       <item itemvalue="Application._997_Find_the_Town_Judge" />
       <item itemvalue="Application._914_X_of_a_Kind_in_a_Deck_of_Cards" />
+      <item itemvalue="Application._925_Long_Pressed_Name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._925_Long_Pressed_Name" />
         <item itemvalue="Application._914_X_of_a_Kind_in_a_Deck_of_Cards" />
         <item itemvalue="Application._997_Find_the_Town_Judge" />
         <item itemvalue="Application._994_Rotting_Oranges" />
         <item itemvalue="Application._993_Cousins_in_Binary_Tree" />
-        <item itemvalue="Application._02_BST" />
       </list>
     </recent_temporary>
   </component>
@@ -1030,7 +1039,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553265993103</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="update">
+      <created>1553267930010</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1553267930010</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1047,7 +1063,7 @@
       <window_info anchor="bottom" id="Console" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.329582" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.25281805" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.15619968" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -1401,10 +1417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_925_Long_Pressed_Name.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_908_SmallestRangeI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1415,23 +1431,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_908_SmallestRangeI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_917_Reverse_Only_Letters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_914_X_of_a_Kind_in_a_Deck_of_Cards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="-19">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1440,6 +1449,13 @@
             <element signature="e#1061#1062#0" expanded="true" />
             <element signature="e#1129#1130#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_925_Long_Pressed_Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
