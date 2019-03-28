@@ -448,7 +448,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553695750572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553695830022" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -479,7 +479,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._824">
+  <component name="RunManager" selected="Application._824_Goat_Latin">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -613,8 +613,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_824" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.leetcode._824" />
+    <configuration name="_824_Goat_Latin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libin.leetcode._824_Goat_Latin" />
       <module name="studyMaven" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -778,11 +778,11 @@
       <item itemvalue="Application._925_Long_Pressed_Name" />
       <item itemvalue="Application._986_Interval_List_Intersections" />
       <item itemvalue="Application._983_Minimum_Cost_For_Tickets" />
-      <item itemvalue="Application._824" />
+      <item itemvalue="Application._824_Goat_Latin" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._824" />
+        <item itemvalue="Application._824_Goat_Latin" />
         <item itemvalue="Application._983_Minimum_Cost_For_Tickets" />
         <item itemvalue="Application._986_Interval_List_Intersections" />
         <item itemvalue="Application._925_Long_Pressed_Name" />

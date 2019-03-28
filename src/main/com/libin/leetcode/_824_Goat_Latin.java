@@ -11,9 +11,9 @@ import java.util.HashSet;
  * 如果单词以辅音开头，则把第一个单词移至末尾，并加上ma
  * 根据单词在句子中的索引，后面加上若干个a
  */
-public class _824 {
+public class _824_Goat_Latin {
     public static void main(String[] args) {
-        String s = new _824().toGoatLatin("I speak Goat Latin");
+        String s = new _824_Goat_Latin().toGoatLatin("I speak Goat Latin");
         System.out.println(s);
     }
 
