@@ -9,9 +9,9 @@ import java.util.List;
  * <p>
  * Purpose : 找出连续出现三个及以上的相同字符
  */
-public class _830 {
+public class _830_Positions_of_Large_Groups {
     public static void main(String[] args) {
-        List<List<Integer>> list = new _830().largeGroupPositions("aaaa");
+        List<List<Integer>> list = new _830_Positions_of_Large_Groups().largeGroupPositions("aaaa");
         System.out.println(list);
     }
 
