@@ -7,4 +7,7 @@ package libin.leetcode;
  * Purpose :
  */
 public class _954 {
+    public boolean canReorderDoubled(int[] A) {
+        return false;
+    }
 }
