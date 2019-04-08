@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_746.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_746.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,11 +111,11 @@
           <entry key="project.open.time.34" value="4" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.41" value="2" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -132,14 +133,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="68" />
-          <entry key="java" value="7103" />
+          <entry key="java" value="7140" />
           <entry key="md" value="1330" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7103" />
+          <entry key="JAVA" value="7140" />
           <entry key="Markdown" value="1330" />
           <entry key="PLAIN_TEXT" value="78" />
         </counts>
@@ -160,11 +161,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_746.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="209">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -196,7 +197,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_954.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
@@ -261,7 +262,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/com/libin/general/_07_dp/_06_editDistance.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_07_dp/_02_LIS.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_07_dp/_01_LCS.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/general/_07_dp/_07_MaxProductSubstring.java" />
@@ -312,6 +312,7 @@
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_973_K_Closest_Points_to_Origin.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_974.java" />
         <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_974_Subarray_Sums_Divisible_by_K.java" />
+        <option value="$PROJECT_DIR$/src/main/com/libin/leetcode/_746.java" />
       </list>
     </option>
   </component>
@@ -382,8 +383,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -437,12 +438,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554215502959" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554298242297" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -1142,10 +1143,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="767" y="61" width="451" height="953" id="Project" order="0" visible="true" weight="0.34795764" />
+      <window_info active="true" content_ui="combo" x="767" y="61" width="451" height="953" id="Project" order="0" visible="true" weight="0.35325265" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1500,13 +1501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_746.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_747.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1559,6 +1553,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/libin/leetcode/_746.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
