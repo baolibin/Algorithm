@@ -7,4 +7,20 @@ package libin.leetcode;
  * Purpose :
  */
 public class _747 {
+    public int dominantIndex(int[] nums) {
+        int max = Integer.MIN_VALUE;
+        int sec = nums[0];
+        int index = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > max) {
+                sec = max;
+                max = nums[i];
+                index = i;
+            }else{
+                if (nums[i] > sec) sec = nums[i];
+            }
+        }
+        if (max >= sec * 2) return index;
+        return -1;
+    }
 }
