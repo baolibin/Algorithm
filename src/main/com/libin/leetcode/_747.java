@@ -4,7 +4,7 @@ package libin.leetcode;
  * Copyright (c) 2019/04/02. xixi Inc. All Rights Reserved.
  * Authors: libin <2578858653@qq.com>
  * <p>
- * Purpose :
+ * Purpose : 查找数组中最大元素是否至少是数组中每个其它元素的两倍
  */
 public class _747 {
     public int dominantIndex(int[] nums) {
