@@ -6,7 +6,7 @@ package libin.leetcode;
  * <p>
  * Purpose : 从第0阶或第一阶出发，走完这个楼梯的最下成本是多少
  */
-public class _746 {
+public class _746_MinCostClimbingStairs {
     public int minCostClimbingStairs(int[] cost) {
         int[] dp = new int[cost.length+1];
         if (cost.length <= 2) {

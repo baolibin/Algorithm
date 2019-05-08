@@ -6,7 +6,7 @@ package libin.leetcode;
  * <p>
  * Purpose : 查找数组中最大元素是否至少是数组中每个其它元素的两倍
  */
-public class _747 {
+public class _747_LargestNumberAtLeastTwiceofOthers {
     public int dominantIndex(int[] nums) {
         int max = Integer.MIN_VALUE;
         int sec = nums[0];

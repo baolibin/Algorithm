@@ -9,7 +9,7 @@ import java.util.HashMap;
  * <p>
  * Purpose : 数组经过变换后，满足这个公式，偶数位都是奇数为的二倍
  */
-public class _954 {
+public class _954_ArrayofDoubledPairs {
     public boolean canReorderDoubled(int[] A) {
         HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
         for (int aA : A) {

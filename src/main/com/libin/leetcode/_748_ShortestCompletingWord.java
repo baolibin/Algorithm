@@ -7,7 +7,7 @@ package libin.leetcode;
  * Purpose : 找出最短的符合licensePlate原则的字符串，如果有多个，那么返回第一个
  *           去除掉licensePlate里面的空格和数字，只保留英文字符，并转化为小写。然后再找words中包含这些字符的最短的字符串。
  */
-public class _748 {
+public class _748_ShortestCompletingWord {
     public String shortestCompletingWord(String licensePlate, String[] words) {
         char[] chars = licensePlate.toLowerCase().toCharArray();
         StringBuilder sb = new StringBuilder();

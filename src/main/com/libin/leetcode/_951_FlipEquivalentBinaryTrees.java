@@ -6,7 +6,7 @@ package libin.leetcode;
  * <p>
  * Purpose : 经过一定次数的翻转操作后，能使X变成Y，则X翻转等价于二叉树Y
  */
-public class _951 {
+public class _951_FlipEquivalentBinaryTrees {
     // lalala
     public boolean flipEquiv(TreeNode_951 root1, TreeNode_951 root2) {
         if (root1 == null || root2 == null)

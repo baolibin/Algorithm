@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_70_ClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_72_Edit_Distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_85_MaximalRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_87_ScrambleString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -388,7 +383,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557325663567" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557326802974" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bigdata/spark-core" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -741,13 +736,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00016" summary="bst">
-      <created>1536239101735</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1536239101735</updated>
-    </task>
     <task id="LOCAL-00017" summary="readme">
       <created>1536239634303</created>
       <option name="number" value="00017" />
@@ -1084,7 +1072,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556948136753</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="update">
+      <created>1557325708405</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1557325708407</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
