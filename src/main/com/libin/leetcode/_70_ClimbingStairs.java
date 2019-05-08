@@ -6,7 +6,7 @@ package libin.leetcode;
  * <p>
  * Purpose : 一个台阶,一次可以走1步或者2步，求走n阶台阶有多少种不同的走法。
  */
-public class _70 {
+public class _70_ClimbingStairs {
     public int climbStairs(int n) {
         if (n == 1)
             return 1;

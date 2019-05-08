@@ -20,7 +20,7 @@ package libin.leetcode;
  * 递推式是res[i][j][len] = || (res[i][j][k]&&res[i+k][j+k][len-k] || res[i][j+len-k][k]&&res[i+k][j][len-k])
  * 对于所有1<=k<len，也就是对于所有len-1种劈法的结果求或运算
  */
-public class _87 {
+public class _87_ScrambleString {
     public boolean isScramble(String s1, String s2) {
         int l1 = s1.length();
         int l2 = s2.length();

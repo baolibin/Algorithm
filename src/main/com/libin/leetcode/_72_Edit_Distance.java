@@ -18,7 +18,7 @@ package libin.leetcode;
  * if(word1[i]==word2[j]) dp[i][j]=dp[i-1][j-1]
  * if(word1[i]!=word2[j]) dp[i][j]=min(dp[i-1][j-1],min(dp[i-1][j],dp[i][j-1]))+1
  */
-public class _72 {
+public class _72_Edit_Distance {
     public int minDistance(String word1, String word2) {
         char[] w1 = word1.toCharArray();
         char[] w2 = word2.toCharArray();
