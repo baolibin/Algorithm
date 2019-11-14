@@ -9,7 +9,7 @@ package libin.base._03_map;
 ---| LinkedHashMap：
 	该子类基于哈希表又融入了链表。可以Map集合进行增删提高效率。
 ---|TreeMap:
-	底层是二叉树数据结构。可以对map集合中的键进行排序。需要使用Comparable或者Comparator 进行比较排序。return 0，来判断键的唯一性。
+	底层是红黑树数据结构。可以对map集合中的键进行排序。需要使用Comparable或者Comparator 进行比较排序。return 0，来判断键的唯一性。
  */
 public class _04_hashMap {
 
