@@ -7,16 +7,16 @@ package libin.offer;
 public class _18_tree_structure {
     public static void main(String[] args) {
         TreeNode18 t1 = new TreeNode18(1);
-        t1.left=new TreeNode18(2);
-        t1.right=new TreeNode18(3);
-        t1.left.left=new TreeNode18(4);
-        t1.left.right=new TreeNode18(5);
+        t1.left = new TreeNode18(2);
+        t1.right = new TreeNode18(3);
+        t1.left.left = new TreeNode18(4);
+        t1.left.right = new TreeNode18(5);
         TreeNode18 t2 = new TreeNode18(2);
-        t2.left=new TreeNode18(4);
-        t2.right=new TreeNode18(65);
+        t2.left = new TreeNode18(4);
+        t2.right = new TreeNode18(65);
 
         Solution18 solution18 = new Solution18();
-        System.out.println(solution18.HasSubtree(t1,t2));
+        System.out.println(solution18.HasSubtree(t1, t2));
     }
 }
 
@@ -32,30 +32,22 @@ class TreeNode18 {
 
 class Solution18 {
     public boolean HasSubtree(TreeNode18 root1, TreeNode18 root2) {
-        boolean result = false;
-        if(root1!=null && root2!=null){
-            if(root1.val==root2.val){
-                result=recursionTree(root1,root2);
-            }
-            if(!result){
-                result=HasSubtree(root1.left,root2);
-            }
-            if(!result){
-                result=HasSubtree(root1.right,root2);
-            }
+        if (root1 == null || root2 == null) {
+            return false;
         }
-        return result;
-    }
-    public boolean recursionTree(TreeNode18 root1, TreeNode18 root2){
-        if(root2==null){
+        if (root1.val == root2.val && recursionTree(root1, root2)) {
             return true;
         }
-        if(root1==null){
+        return HasSubtree(root1.left, root2) || HasSubtree(root1.right, root2);
+    }
+
+    public boolean recursionTree(TreeNode18 root1, TreeNode18 root2) {
+        if (root2 == null) {
+            return true;
+        }
+        if (root1 == null || root1.val != root2.val) {
             return false;
         }
-        if(root1.val!=root2.val){
-            return false;
-        }
-        return recursionTree(root1.left,root2.left)&&recursionTree(root1.right,root2.right);
+        return recursionTree(root1.left, root2.left) && recursionTree(root1.right, root2.right);
     }
 }
