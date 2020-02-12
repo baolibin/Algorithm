@@ -4,7 +4,7 @@ package libin.general._07_dp;
  * Copyright (c) 2017/1/1. xixi Inc. All Rights Reserved.
  * Authors: libin <2578858653@qq.com>
  * <p>
- * Purpose : 最长递增子序列(Longest Increasing Subsequence)
+ * Purpose : 最长公共子序列(Longest Common Subsequence)
  */
 public class _01_LCS {
 	public static void main(String[] args) {
