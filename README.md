@@ -1,6 +1,4 @@
-
 # 基本算法练习
-
 ### 基本算法  
 * [数组](src/main/com/libin/general/_01_array)
 * [链表](src/main/com/libin/general/_02_linked)
@@ -14,7 +12,14 @@
 * [机器学习](src/main/com/libin/general/_10_machine)
 
 ### leetCode
-* [刷题](src/main/com/libin/leetcode)
+* [刷题-leetCode](src/main/com/libin/leetcode)
+* [刷题-leetCode-cn-algorithm](src/main/com/libin/leetcode_cn_algorithm)
+* [刷题-leetCode-cn-sql](src/main/com/libin/leetcode_cn_sql)
+* [刷题-leetCode-cn-shell](src/main/com/libin/leetcode_cn_shell)
 
 ### 剑指offer  
  * [题目列表](src/main/com/libin/offer)
+
+### 程序员面试金典
+ * [题目列表](src/main/com/libin/Cracking_the_Coding_Interview)
+ 
