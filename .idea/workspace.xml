@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_3_lengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1_isUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell/_195_第十行.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +110,7 @@
       <recent name="E:\2018_github\algorithm\src\main\com\libin\general\_08_massDate" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._830_Positions_of_Large_Groups">
+  <component name="RunManager" selected="Shell Script._195_第十行.sh">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -270,20 +272,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_925_Long_Pressed_Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="libin.leetcode._925_Long_Pressed_Name" />
-      <module name="studyMaven" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="libin.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_983_Minimum_Cost_For_Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="libin.leetcode._983_Minimum_Cost_For_Tickets" />
       <module name="studyMaven" />
@@ -385,6 +373,14 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="_195_第十行.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell/_195_第十行.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -404,20 +400,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._925_Long_Pressed_Name" />
       <item itemvalue="Application._986_Interval_List_Intersections" />
       <item itemvalue="Application._983_Minimum_Cost_For_Tickets" />
       <item itemvalue="Application._824_Goat_Latin" />
       <item itemvalue="Application._830_Positions_of_Large_Groups" />
       <item itemvalue="Maven.studyMaven" />
+      <item itemvalue="Shell Script._195_第十行.sh" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Shell Script._195_第十行.sh" />
         <item itemvalue="Application._830_Positions_of_Large_Groups" />
         <item itemvalue="Application._824_Goat_Latin" />
         <item itemvalue="Application._983_Minimum_Cost_For_Tickets" />
         <item itemvalue="Application._986_Interval_List_Intersections" />
-        <item itemvalue="Application._925_Long_Pressed_Name" />
       </list>
     </recent_temporary>
   </component>
@@ -431,13 +427,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
-    </task>
-    <task id="LOCAL-00028" summary="update">
-      <created>1552805695850</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1552805695850</updated>
     </task>
     <task id="LOCAL-00029" summary="update">
       <created>1552808660117</created>
@@ -775,7 +764,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586590537109</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="leetcode">
+      <created>1586606096497</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1586606096498</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -812,14 +808,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586606068674">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586606569570">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586606068674" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586590568322">
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586606569570" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586606098009">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586590568322" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586606098009" />
     <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586271629301">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
