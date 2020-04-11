@@ -18,7 +18,7 @@ package libin.leetcode;
  * 当前值为1  height[i][j]=height[i][j-1]+1
  * 当前值为0  height[i][j]=0
  */
-public class _85_MaximalRectangle {
+public class _085_MaximalRectangle {
     public int maximalRectangle(char[][] matrix) {
         if (matrix == null || matrix.length == 0)
             return 0;

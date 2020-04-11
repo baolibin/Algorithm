@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="add new sql">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_1_twoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_2_addTwoNumbers.java" afterDir="false" />
+    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_10_Regular_Expression_Matching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_010_Regular_Expression_Matching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_28_Implement_strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_028_Implement_strStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_38_Count_and_Say.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_038_Count_and_Say.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_43_Multiply_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_043_Multiply_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_49_Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_049_Group_Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_5_Longest_Palindromic_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_005_Longest_Palindromic_Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_062.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_063.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_68_Text_Justification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_068_Text_Justification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_6_ZigZag_Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_006_ZigZag_Conversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_70_ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_070_ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_71_Simplify_Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_071_Simplify_Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_72_Edit_Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_072_Edit_Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_7_Reverse_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_007_Reverse_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_85_MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_085_MaximalRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_87_ScrambleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_087_ScrambleString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_8_String_to_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_008_String_to_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode/_9_Palindrome_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode/_009_Palindrome_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -433,13 +449,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00025" summary="update">
-      <created>1552787570725</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1552787570725</updated>
-    </task>
     <task id="LOCAL-00026" summary="update">
       <created>1552794535223</created>
       <option name="number" value="00026" />
@@ -776,7 +785,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586274778168</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="leetcode">
+      <created>1586589366348</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1586589366349</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -801,7 +817,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="app new sql" />
     <MESSAGE value="add new sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new sql" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="WindowStateProjectService">
     <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586269783237">
@@ -812,14 +829,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586274749233">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586589339245">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586274749233" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586274780311">
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586589339245" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586589374447">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586274780311" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586589374447" />
     <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586271629301">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

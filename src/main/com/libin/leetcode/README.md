@@ -1,10 +1,48 @@
 
-# LeetCode
-hello world...
-
-746、747、748、954
-
-dp
-70、72、85、87
-
-62、63、121、122、123、188、198、213、309
+# LeetCode刷题列表
+* [Two_Sum](_001_Two_Sum.java)
+* [Add_Two_Numbers](_002_Add_Two_Numbers.java)
+* [Longest_Substring_Without_Repeating_Characters](_003_Longest_Substring_Without_Repeating_Characters.java)
+* [Median_of_Two_Sorted_Arrays](_004_Median_of_Two_Sorted_Arrays.java)
+* [Longest_Palindromic_Substring](_005_Longest_Palindromic_Substring.java)
+* [ZigZag_Conversion](_006_ZigZag_Conversion.java)
+* [Reverse_Integer](_007_Reverse_Integer.java)
+* [String_to_Integer](_008_String_to_Integer.java)
+* [Palindrome_Number](_009_Palindrome_Number.java)
+* [Regular_Expression_Matching](_010_Regular_Expression_Matching.java)
+* [Implement_strStr](_028_Implement_strStr.java)
+* [Count_and_Say](_038_Count_and_Say.java)
+* [Multiply_Strings](_043_Multiply_Strings.java)
+* [Group_Anagrams](_049_Group_Anagrams.java)
+* [XX](_062.java)
+* [XX](_063.java)
+* [Text_Justification](_068_Text_Justification.java)
+* [ClimbingStairs](_070_ClimbingStairs.java)
+* [Simplify_Path](_071_Simplify_Path.java)
+* [Edit_Distance](_072_Edit_Distance.java)
+* [MaximalRectangle](_085_MaximalRectangle.java)
+* [ScrambleString](_087_ScrambleString.java)
+* [Maximum_Product_Subarray](_152_Maximum_Product_Subarray.java)
+* [MaximumBinaryTree](_654_MaximumBinaryTree.java)
+* [MinCostClimbingStairs](_746_MinCostClimbingStairs.java)
+* [LargestNumberAtLeastTwiceofOthers](_747_LargestNumberAtLeastTwiceofOthers.java)
+* [ShortestCompletingWord](_748_ShortestCompletingWord.java)
+* [Goat_Latin](_824_Goat_Latin.java)
+* [Positions_of_Large_Groups](_830_Positions_of_Large_Groups.java)
+* [Flipping_an_Image](_832_Flipping_an_Image.java)
+* [SmallestRangeI](_908_SmallestRangeI.java)
+* [X_of_a_Kind_in_a_Deck_of_Cards](_914_X_of_a_Kind_in_a_Deck_of_Cards.java)
+* [Reverse_Only_Letters](_917_Reverse_Only_Letters.java)
+* [Sort_Array_By_Parity_II](_922_Sort_Array_By_Parity_II.java)
+* [Long_Pressed_Name](_925_Long_Pressed_Name.java)
+* [FlipEquivalentBinaryTrees](_951_FlipEquivalentBinaryTrees.java)
+* [ArrayofDoubledPairs](_954_ArrayofDoubledPairs.java)
+* [K_Closest_Points_to_Origin](_973_K_Closest_Points_to_Origin.java)
+* [Subarray_Sums_Divisible_by_K](_974_Subarray_Sums_Divisible_by_K.java)
+* [Minimum_Cost_For_Tickets](_983_Minimum_Cost_For_Tickets.java)
+* [Interval_List_Intersections](_986_Interval_List_Intersections.java)
+* [Cousins_in_Binary_Tree](_993_Cousins_in_Binary_Tree.java)
+* [Rotting_Oranges](_994_Rotting_Oranges.java)
+* [Find_the_Town_Judge](_997_Find_the_Town_Judge.java)
+* [Maximum_Binary_Tree_II](_998_Maximum_Binary_Tree_II.java)
+* [Available_Captures_for_Rook](_999_Available_Captures_for_Rook.java)
