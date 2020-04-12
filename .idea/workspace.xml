@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0046_permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/LCP1_game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0053_maxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0058_lengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0072_minDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0088_merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0094_inorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0101_isSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0104_maxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0125_isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0144_preorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0145_postorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0409_longestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0434_countSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0509_fib.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" afterDir="false" />
     </list>
@@ -427,13 +440,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00031" summary="update">
-      <created>1552813470564</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1552813470564</updated>
-    </task>
     <task id="LOCAL-00032" summary="update">
       <created>1553004504359</created>
       <option name="number" value="00032" />
@@ -770,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586674182709</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="leetcode">
+      <created>1586684376987</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1586684376988</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -816,10 +829,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586674251764">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586684378463">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586674251764" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586684378463" />
     <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586684046286">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
