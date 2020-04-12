@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="coding interview">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0007_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0009_isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0013_romanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0014_longestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0020_isValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0021_mergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0026_removeDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0027_removeElement.java" afterDir="false" />
+    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0046_permute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_1_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0001_twoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_2_addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0002_addTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_3_lengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0003_lengthOfLongestSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,13 +427,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00030" summary="update">
-      <created>1552811956952</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1552811956952</updated>
-    </task>
     <task id="LOCAL-00031" summary="update">
       <created>1552813470564</created>
       <option name="number" value="00031" />
@@ -780,7 +763,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586606596409</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="leetcode">
+      <created>1586674182708</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1586674182709</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -805,9 +795,9 @@
     <MESSAGE value="init" />
     <MESSAGE value="app new sql" />
     <MESSAGE value="add new sql" />
-    <MESSAGE value="leetcode" />
     <MESSAGE value="coding interview" />
-    <option name="LAST_COMMIT_MESSAGE" value="coding interview" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="WindowStateProjectService">
     <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586269783237">
@@ -818,22 +808,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586606569570">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586684350062">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586606569570" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586684350062" />
     <state x="189" y="0" key="SettingsEditor" timestamp="1586672922807">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586606597737">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586674251764">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586606597737" />
-    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586271629301">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586674251764" />
+    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586684046286">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586271629301" />
+    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586684046286" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

@@ -11,3 +11,4 @@
 * [21.合并两个有序链表](_0021_mergeTwoLists.java)
 * [26.删除排序数组中的重复项](_0026_removeDuplicates.java)
 * [27.移除元素](_0027_removeElement.java)
+* [46.全排列](_0046_permute.java)
