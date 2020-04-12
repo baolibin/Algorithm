@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1_isUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell/_195_第十行.sh" afterDir="false" />
+    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="coding interview">
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0007_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0009_isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0013_romanToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0014_longestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0020_isValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0021_mergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0026_removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0027_removeElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_shell/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_1_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0001_twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_2_addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0002_addTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_3_lengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0003_lengthOfLongestSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +94,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581485073597" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql" />
@@ -93,7 +102,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26179463" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -427,13 +436,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
-    </task>
-    <task id="LOCAL-00029" summary="update">
-      <created>1552808660117</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1552808660117</updated>
     </task>
     <task id="LOCAL-00030" summary="update">
       <created>1552811956952</created>
@@ -771,7 +773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586606096498</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="coding interview">
+      <created>1586606596409</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1586606596409</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -797,7 +806,8 @@
     <MESSAGE value="app new sql" />
     <MESSAGE value="add new sql" />
     <MESSAGE value="leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+    <MESSAGE value="coding interview" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding interview" />
   </component>
   <component name="WindowStateProjectService">
     <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586269783237">
@@ -812,10 +822,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586606569570" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586606098009">
+    <state x="189" y="0" key="SettingsEditor" timestamp="1586672922807">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586606098009" />
+    <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586606597737">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586606597737" />
     <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586271629301">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
