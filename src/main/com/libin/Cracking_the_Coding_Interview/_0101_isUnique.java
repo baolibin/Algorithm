@@ -17,7 +17,7 @@ package libin.Cracking_the_Coding_Interview;
  * 0 <= len(s) <= 100
  * 如果你不使用额外的数据结构，会很加分。
  */
-public class _1_isUnique {
+public class _0101_isUnique {
     public boolean isUnique(String astr) {
         char[] c = astr.toCharArray();
         // 一遍for循环，判断每个字符下标是否是，字符串中和自己相等最后的下标

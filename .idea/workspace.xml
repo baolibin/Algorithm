@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/LCP1_game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0053_maxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0058_lengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0072_minDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0088_merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0094_inorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0101_isSymmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0104_maxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0125_isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0144_preorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0145_postorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0409_longestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0434_countSegments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0509_fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0102_CheckPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0103_replaceSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0104_canPermutePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0201_removeDuplicateNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1001_merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1716_massage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1_isUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0101_isUnique.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -821,18 +814,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1586684350062">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1587218014438">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1586684350062" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587218014438" />
     <state x="189" y="0" key="SettingsEditor" timestamp="1586672922807">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586684378463">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586685717750">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586684378463" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586685717750" />
+    <state x="396" y="152" key="git4idea.merge.GitPullDialog" timestamp="1587216695975">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="396" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1587216695975" />
     <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586684046286">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
