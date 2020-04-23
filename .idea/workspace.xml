@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0102_CheckPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0103_replaceSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0104_canPermutePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0201_removeDuplicateNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1001_merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1716_massage.java" afterDir="false" />
+    <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1_isUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_0101_isUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/yfl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/yfl/README.md" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +108,18 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\2018_github\algorithm\src\main\com\libin\general\_08_massDate" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Shell Script._195_第十行.sh">
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
@@ -427,13 +433,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
-    </task>
-    <task id="LOCAL-00032" summary="update">
-      <created>1553004504359</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1553004504359</updated>
     </task>
     <task id="LOCAL-00033" summary="update">
       <created>1553006401530</created>
@@ -771,8 +770,26 @@
       <option name="project" value="LOCAL" />
       <updated>1586684376988</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="update">
+      <created>1587617601853</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1587617601854</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -792,43 +809,29 @@
     <MESSAGE value="求文件所有字符串公共子串" />
     <MESSAGE value="bst" />
     <MESSAGE value="readme" />
-    <MESSAGE value="update" />
     <MESSAGE value="init" />
     <MESSAGE value="app new sql" />
     <MESSAGE value="add new sql" />
     <MESSAGE value="coding interview" />
     <MESSAGE value="leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586269783237">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1586269783237" />
-    <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586274319196">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1587218014438">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587218014438" />
-    <state x="189" y="0" key="SettingsEditor" timestamp="1586672922807">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1586685717750">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1586685717750" />
-    <state x="396" y="152" key="git4idea.merge.GitPullDialog" timestamp="1587216695975">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="396" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1587216695975" />
-    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586684046286">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586684046286" />
+    <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser" />
+    <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" />
+    <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" />
+    <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" />
+    <state x="361" y="0" key="CommitChangelistDialog2" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" />
+    <state x="189" y="0" key="SettingsEditor" />
+    <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" />
+    <state x="396" y="152" key="git4idea.merge.GitPullDialog" />
+    <state x="396" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" />
+    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" />
+    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
