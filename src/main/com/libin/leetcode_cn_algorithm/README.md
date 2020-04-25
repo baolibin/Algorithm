@@ -17,6 +17,7 @@
 * [72.编辑距离](_0072_minDistance.java)
 * [88.合并两个有序数组](_0088_merge.java)
 * [94.二叉树的中序遍历](_0094_inorderTraversal.java)
+* [100.相同的树](_0100_isSameTree.java)
 * [101.对称二叉树](_0101_isSymmetric.java)
 * [104.二叉树的最大深度](_0104_maxDepth.java)
 * [125.验证回文串](_0125_isPalindrome.java)

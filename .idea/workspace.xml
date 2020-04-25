@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="coding interview">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/Cracking_the_Coding_Interview/_1710_majorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0100_isSameTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -426,13 +426,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00033" summary="update">
-      <created>1553006401530</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1553006401530</updated>
-    </task>
     <task id="LOCAL-00034" summary="update">
       <created>1553088232028</created>
       <option name="number" value="00034" />
@@ -769,7 +762,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587218059658</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="coding interview">
+      <created>1587732738600</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1587732738601</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -807,10 +807,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1587218014438">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1587732736407">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587218014438" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587732736407" />
     <state x="115" y="113" width="1146" height="498" key="DiffContextDialog" timestamp="1587651005131">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -819,10 +819,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1587218061998">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1587732740457">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1587218061997" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1587732740457" />
     <state x="514" y="95" key="VcsDiffUtil.ChangesDialog" timestamp="1587650858707">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
