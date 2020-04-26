@@ -23,6 +23,7 @@
 * [125.验证回文串](_0125_isPalindrome.java)
 * [144.二叉树的前序遍历](_0144_preorderTraversal.java)
 * [145.二叉树的后序遍历](_0145_postorderTraversal.java)
+* [204.计数质数](_0204_countPrimes.java)
 * [409.最长回文串](_0409_longestPalindrome.java)
 * [434.字符串中的单词数](_0434_countSegments.java)
 * [509.斐波那契数](_0509_fib.java)
