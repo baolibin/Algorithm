@@ -21,6 +21,7 @@
 * [101.对称二叉树](_0101_isSymmetric.java)
 * [104.二叉树的最大深度](_0104_maxDepth.java)
 * [125.验证回文串](_0125_isPalindrome.java)
+* [141.环形链表](_0141_hasCycle.java)
 * [144.二叉树的前序遍历](_0144_preorderTraversal.java)
 * [145.二叉树的后序遍历](_0145_postorderTraversal.java)
 * [204.计数质数](_0204_countPrimes.java)

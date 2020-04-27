@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0204_countPrimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581485073597" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26179463" />
@@ -426,13 +425,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00035" summary="update">
-      <created>1553089910674</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1553089910674</updated>
-    </task>
     <task id="LOCAL-00036" summary="update">
       <created>1553177738295</created>
       <option name="number" value="00036" />
@@ -769,7 +761,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587795803153</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="leetcode">
+      <created>1587907178566</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1587907178567</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -807,10 +806,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1587795801362">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1587907175616">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587795801362" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1587907175616" />
     <state x="115" y="113" width="1146" height="498" key="DiffContextDialog" timestamp="1587651005131">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -819,10 +818,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1587795804399">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1587907180279">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1587795804399" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1587907180279" />
     <state x="514" y="95" key="VcsDiffUtil.ChangesDialog" timestamp="1587650858707">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
