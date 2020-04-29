@@ -15,6 +15,7 @@
 * [53.最大子序和](_0053_maxSubArray.java)
 * [58.最后一个单词的长度](_0058_lengthOfLastWord.java)
 * [72.编辑距离](_0072_minDistance.java)
+* [83.删除排序链表中的重复元素](_0083_deleteDuplicates.java)
 * [88.合并两个有序数组](_0088_merge.java)
 * [94.二叉树的中序遍历](_0094_inorderTraversal.java)
 * [100.相同的树](_0100_isSameTree.java)
