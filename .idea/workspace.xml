@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0485_findMaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1407_排名靠前的旅行者.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581485073597" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Program" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javacodedance" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26179463" />
@@ -427,13 +427,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00040" summary="update">
-      <created>1553269748747</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1553269748747</updated>
-    </task>
     <task id="LOCAL-00041" summary="update">
       <created>1553345494002</created>
       <option name="number" value="00041" />
@@ -770,7 +763,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588173403194</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="leetcode">
+      <created>1588337880427</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1588337880428</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -808,26 +808,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1588173399512">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1588337878026">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1588173399512" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1588337878026" />
     <state x="115" y="113" width="1146" height="498" key="DiffContextDialog" timestamp="1587651005131">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="115" y="113" width="1146" height="498" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1587651005131" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1587997850375">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1588509941596">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587997850375" />
-    <state x="189" y="0" key="SettingsEditor" timestamp="1586672922807">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588509941596" />
+    <state x="189" y="0" key="SettingsEditor" timestamp="1588401063545">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586672922807" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1588173406237">
+    <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588401063545" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1588337882580">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588173406237" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588337882580" />
     <state x="514" y="95" key="VcsDiffUtil.ChangesDialog" timestamp="1587650858707">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
