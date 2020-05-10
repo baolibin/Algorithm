@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1407_排名靠前的旅行者.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1264_页面推荐.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -427,13 +426,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00041" summary="update">
-      <created>1553345494002</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1553345494002</updated>
-    </task>
     <task id="LOCAL-00042" summary="update">
       <created>1553349971100</created>
       <option name="number" value="00042" />
@@ -770,7 +762,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588337880428</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="leetcode">
+      <created>1588671715909</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1588671715910</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -808,10 +807,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1588337878026">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1589119789877">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1588337878026" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1589119789877" />
     <state x="115" y="113" width="1146" height="498" key="DiffContextDialog" timestamp="1587651005131">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -824,10 +823,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588401063545" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1588337882580">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1588671717874">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588337882580" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588671717874" />
     <state x="514" y="95" key="VcsDiffUtil.ChangesDialog" timestamp="1587650858707">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
