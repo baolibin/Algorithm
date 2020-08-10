@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1264_页面推荐.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,12 +85,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowDB Browser.ShowToolbar" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581485073597" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javacodedance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26179463" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -426,118 +425,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00042" summary="update">
-      <created>1553349971100</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1553349971100</updated>
-    </task>
-    <task id="LOCAL-00043" summary="update">
-      <created>1553611185526</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1553611185526</updated>
-    </task>
-    <task id="LOCAL-00044" summary="update">
-      <created>1553782505638</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1553782505638</updated>
-    </task>
-    <task id="LOCAL-00045" summary="update">
-      <created>1554034417000</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1554034417000</updated>
-    </task>
-    <task id="LOCAL-00046" summary="update">
-      <created>1554034457679</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1554034457679</updated>
-    </task>
-    <task id="LOCAL-00047" summary="update">
-      <created>1554035309241</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1554035309241</updated>
-    </task>
-    <task id="LOCAL-00048" summary="update">
-      <created>1554039624417</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1554039624417</updated>
-    </task>
-    <task id="LOCAL-00049" summary="update">
-      <created>1554041473071</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1554041473071</updated>
-    </task>
-    <task id="LOCAL-00050" summary="update">
-      <created>1554129622645</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1554129622646</updated>
-    </task>
-    <task id="LOCAL-00051" summary="update">
-      <created>1554215499928</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1554215499930</updated>
-    </task>
-    <task id="LOCAL-00052" summary="update">
-      <created>1554731664828</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1554731664831</updated>
-    </task>
-    <task id="LOCAL-00053" summary="update">
-      <created>1554733319235</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1554733319235</updated>
-    </task>
-    <task id="LOCAL-00054" summary="update">
-      <created>1554733836429</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1554733836429</updated>
-    </task>
-    <task id="LOCAL-00055" summary="update">
-      <created>1554734160527</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1554734160528</updated>
-    </task>
-    <task id="LOCAL-00056" summary="update">
-      <created>1554734402717</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1554734402718</updated>
-    </task>
-    <task id="LOCAL-00057" summary="update">
-      <created>1554820995966</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1554820995967</updated>
-    </task>
     <task id="LOCAL-00058" summary="update">
       <created>1555252059065</created>
       <option name="number" value="00058" />
@@ -769,7 +656,119 @@
       <option name="project" value="LOCAL" />
       <updated>1588671715910</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="leetcode">
+      <created>1589119796697</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1589119796699</updated>
+    </task>
+    <task id="LOCAL-00092" summary="leetcode">
+      <created>1589465802943</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1589465802944</updated>
+    </task>
+    <task id="LOCAL-00093" summary="leetcode">
+      <created>1589553910019</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1589553910022</updated>
+    </task>
+    <task id="LOCAL-00094" summary="leetcode">
+      <created>1589629811505</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1589629811508</updated>
+    </task>
+    <task id="LOCAL-00095" summary="leetcode">
+      <created>1589698152388</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1589698152389</updated>
+    </task>
+    <task id="LOCAL-00096" summary="leetcode">
+      <created>1589901918634</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1589901918636</updated>
+    </task>
+    <task id="LOCAL-00097" summary="leetcode">
+      <created>1589984590805</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1589984590806</updated>
+    </task>
+    <task id="LOCAL-00098" summary="leetcode">
+      <created>1590417094434</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1590417094436</updated>
+    </task>
+    <task id="LOCAL-00099" summary="leetcode">
+      <created>1590502828604</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1590502828606</updated>
+    </task>
+    <task id="LOCAL-00100" summary="leetcode">
+      <created>1590590415845</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1590590415846</updated>
+    </task>
+    <task id="LOCAL-00101" summary="leetcode">
+      <created>1590683845891</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1590683845893</updated>
+    </task>
+    <task id="LOCAL-00102" summary="leetcode">
+      <created>1591443962190</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1591443962193</updated>
+    </task>
+    <task id="LOCAL-00103" summary="leetcode">
+      <created>1591528536602</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1591528536603</updated>
+    </task>
+    <task id="LOCAL-00104" summary="leetcode">
+      <created>1591624980744</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1591624980746</updated>
+    </task>
+    <task id="LOCAL-00105" summary="leetcode">
+      <created>1591714210810</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1591714210811</updated>
+    </task>
+    <task id="LOCAL-00106" summary="leetcode">
+      <created>1593444678183</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1593444678191</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -807,26 +806,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1589119789877">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1593444675702">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1589119789877" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593444675702" />
     <state x="115" y="113" width="1146" height="498" key="DiffContextDialog" timestamp="1587651005131">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="115" y="113" width="1146" height="498" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1587651005131" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1588509941596">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1589818124080">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588509941596" />
-    <state x="189" y="0" key="SettingsEditor" timestamp="1588401063545">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589818124080" />
+    <state x="189" y="0" key="SettingsEditor" timestamp="1590417819596">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588401063545" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1588671717874">
+    <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1590417819596" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1593444679694">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1588671717874" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1593444679694" />
     <state x="514" y="95" key="VcsDiffUtil.ChangesDialog" timestamp="1587650858707">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
