@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1435_制作会话柱状图.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1454_活跃用户.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1543_产品名称格式修复.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -425,13 +429,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00058" summary="update">
-      <created>1555252059065</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1555252059066</updated>
-    </task>
     <task id="LOCAL-00059" summary="update">
       <created>1555335730024</created>
       <option name="number" value="00059" />
@@ -768,7 +765,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593444678191</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="leetcode">
+      <created>1597068094467</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1597068094468</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -798,22 +802,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586269783237">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1597068091542">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="362" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1586269783237" />
-    <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586274319196">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="431" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586274319196" />
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1593444675702">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593444675702" />
-    <state x="115" y="113" width="1146" height="498" key="DiffContextDialog" timestamp="1587651005131">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="115" y="113" width="1146" height="498" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1587651005131" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1597068091542" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1589818124080">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -822,26 +814,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1590417819596" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1593444679694">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1597068096008">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1593444679694" />
-    <state x="514" y="95" key="VcsDiffUtil.ChangesDialog" timestamp="1587650858707">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="514" y="95" key="VcsDiffUtil.ChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1587650858707" />
-    <state x="0" y="0" key="git4idea.branch.GitSmartOperationDialog" timestamp="1587651006918">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="0" y="0" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.738@0.0.1366.738" timestamp="1587651006918" />
-    <state x="396" y="152" key="git4idea.merge.GitPullDialog" timestamp="1587650868651">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="396" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1587650868651" />
-    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586684046286">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="351" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586684046286" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1597068096008" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
