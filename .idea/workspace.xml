@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17968ef4-0e6a-4fbb-a684-36e5daef2443" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1435_制作会话柱状图.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1454_活跃用户.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/_1543_产品名称格式修复.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_algorithm/_0235_lowestCommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/libin/leetcode_cn_sql/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -429,13 +426,6 @@
       <option name="presentableId" value="Default" />
       <updated>1507184437618</updated>
     </task>
-    <task id="LOCAL-00059" summary="update">
-      <created>1555335730024</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1555335730024</updated>
-    </task>
     <task id="LOCAL-00060" summary="update">
       <created>1556114230058</created>
       <option name="number" value="00060" />
@@ -772,7 +762,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597068094468</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="leetcode">
+      <created>1598099014025</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1598099014026</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -802,10 +799,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1597068091542">
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1598099011852">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1597068091542" />
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598099011852" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1589818124080">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -814,10 +811,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="189" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1590417819596" />
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1597068096008">
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2" timestamp="1598099015388">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1597068096008" />
+    <state x="280" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598099015388" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
