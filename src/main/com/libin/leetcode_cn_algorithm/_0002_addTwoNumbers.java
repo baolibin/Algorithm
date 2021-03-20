@@ -17,7 +17,7 @@ package libin.leetcode_cn_algorithm;
  * 输出：7 -> 0 -> 8
  * 原因：342 + 465 = 807
  */
-public class _2_addTwoNumbers {
+class _2_addTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int spill = 0;
         ListNode head = l1;
