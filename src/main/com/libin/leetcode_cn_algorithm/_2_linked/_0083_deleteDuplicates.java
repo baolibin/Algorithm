@@ -1,4 +1,4 @@
-package libin.leetcode_cn_algorithm;
+package libin.leetcode_cn_algorithm._2_linked;
 
 /**
  * Copyright (c) 2020/4/29. 小彬科技 Inc. All Rights Reserved.

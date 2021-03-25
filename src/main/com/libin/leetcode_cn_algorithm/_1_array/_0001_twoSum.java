@@ -1,4 +1,4 @@
-package libin.leetcode_cn_algorithm;
+package libin.leetcode_cn_algorithm._1_array;
 
 import java.util.HashMap;
 

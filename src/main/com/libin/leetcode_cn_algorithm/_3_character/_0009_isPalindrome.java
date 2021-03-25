@@ -1,4 +1,4 @@
-package libin.leetcode_cn_algorithm;
+package libin.leetcode_cn_algorithm._3_character;
 
 /**
  * Copyright (c) 2020/4/12. libin Inc. All Rights Reserved.

@@ -1,4 +1,4 @@
-package libin.leetcode_cn_algorithm;
+package libin.leetcode_cn_algorithm._3_character;
 
 import java.util.ArrayList;
 import java.util.Arrays;
