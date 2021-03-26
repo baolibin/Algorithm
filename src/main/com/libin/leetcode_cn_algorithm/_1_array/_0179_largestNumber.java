@@ -1,5 +1,7 @@
 package libin.leetcode_cn_algorithm._1_array;
 
+import java.util.Arrays;
+
 /**
  * Copyright (c) 2021/3/26. libin Inc. All Rights Reserved.
  * Authors: libin <libin>
@@ -25,7 +27,18 @@ package libin.leetcode_cn_algorithm._1_array;
  */
 public class _0179_largestNumber {
 	public String largestNumber(int[] nums) {
-
-		return null;
+		String[] strs = new String[nums.length];
+		for (int i = 0; i < nums.length; i++) {
+			strs[i] = String.valueOf(nums[i]);
+		}
+		// 使用双轴快排
+		Arrays.sort(strs, (o1, o2) -> (o2 + o1).compareTo(o1 + o2));
+		StringBuilder sb = new StringBuilder();
+		for (String str : strs) {
+			// 0,0 -> 0
+			if (sb.toString().equals("0")) sb.delete(0, 1);
+			sb.append(str);
+		}
+		return sb.toString();
 	}
 }
