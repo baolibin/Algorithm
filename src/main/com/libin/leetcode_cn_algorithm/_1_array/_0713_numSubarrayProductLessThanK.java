@@ -14,8 +14,17 @@ package libin.leetcode_cn_algorithm._1_array;
  * 需要注意的是 [10,5,2] 并不是乘积小于100的子数组。
  */
 public class _0713_numSubarrayProductLessThanK {
-	public int numSubarrayProductLessThanK(int[] nums, int k) {
-		int count = 0;
-		return count;
-	}
+    // 维护一个乘积小于K的滑动窗口,窗口边界左右2个指针滑动
+    public int numSubarrayProductLessThanK(int[] nums, int k) {
+        int count = 0, left = 0, right = 0;
+        int target = 1;
+        while (right < nums.length) {
+            target *= nums[right++];
+            while (target >= k && left < right) {
+                target /= nums[left++];
+            }
+            count += (right - left);
+        }
+        return count;
+    }
 }
