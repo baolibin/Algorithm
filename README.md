@@ -50,9 +50,9 @@
     - [1.21、leetCode1157-子数组中占绝大多数的元素]()
 
 * [【2、链表】]()
-    - [2.1、leetCode206-单链表反转]()
-    - [2.2、leetCode142-给定链表，若其中有环，找出该链表的环的入口节点]()
-    - [2.3、剑指offer22-链表倒数第K个节点]()
+    - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
+    - [2.2、leetCode142-给定链表，若其中有环，找出该链表的环的入口节点](src/main/com/libin/offer/_56_hoop_start.java)
+    - [2.3、剑指offer22-链表倒数第K个节点](src/main/com/libin/offer/_15_linked_K.java)
     - [2.4、leetCode21-合并两个有序链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0021_mergeTwoLists.java)
     - [2.5、leetCode82-删除排序链表中的重复元素](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0083_deleteDuplicates.java)
 
@@ -69,9 +69,9 @@
         - [leetCode100-判断两个二叉树是否相等](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0100_isSameTree.java)
         - [剑指offer27-二叉树镜像](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0101_isSymmetric.java)
         - [leetCode104-二叉树深度](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0104_maxDepth.java)
-        - [剑指offer26-二叉树A与B，判断B是不是A的子结构]()
-        - [剑指offer7-根据前序和中序遍历，重建二叉树]()
-        - [leetCode34-二叉树中，和为某一定值的路径]()
+        - [剑指offer26-二叉树A与B，判断B是不是A的子结构](src/main/com/libin/offer/_18_tree_structure.java)
+        - [剑指offer7-根据前序和中序遍历，重建二叉树](src/main/com/libin/offer/_06_binaryTree.java)
+        - [leetCode34-二叉树中，和为某一定值的路径](src/main/com/libin/offer/_25_binary_tree_path.java)
         - [leetCode110-平衡二叉树](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0110_isBalanced.java)
         - [leetCode101-对称二叉树](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0101_isSymmetric.java)
         - [leetCode105-从前序与中序遍历序列构造二叉树](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0105_buildTree.java)
@@ -85,7 +85,7 @@
     - 
 
 * [【6、搜索】]()
-    - [6.1、二分查找]()
+    - [6.1、二分查找](src/main/com/libin/general/_06_search/_01_binarySearch.java)
 
 * [【7、DP】]()
     - [7.1、leetCode53-连续最大子数组和](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0053_maxSubArray.java)
@@ -96,13 +96,13 @@
 
 * [【9、排序】]()
     - [9.1、快速排序](src/main/com/libin/general/_09_sort/_01_quickSort.java)
-    - [9.2、堆排序]()
-    - [9.3、归并排序]()
+    - [9.2、堆排序](src/main/com/libin/general/_09_sort/_02_heapSort.java)
+    - [9.3、归并排序](src/main/com/libin/general/_09_sort/_07_mergeSort.java)
 
 * [【10、递归】]()
-    - [10.1、leetCode51-八皇后]()
-    - [10.2、斐波那契额数列]()
+    - [10.1、leetCode51-八皇后](src/main/com/libin/general/_07_dp/_04_8Queen.java)
+    - [10.2、斐波那契额数列](src/main/com/libin/leetcode_cn_algorithm/_0509_fib.java)
 
 * [【11、其它】]()
-    - [11.1、剑指offer59-给定一个数组和滑动窗口大小，找出所有滑动窗口里数值的最大值]()
+    - [11.1、剑指offer59-给定一个数组和滑动窗口大小，找出所有滑动窗口里数值的最大值](src/main/com/libin/offer/_65_slip_num_max.java)
 

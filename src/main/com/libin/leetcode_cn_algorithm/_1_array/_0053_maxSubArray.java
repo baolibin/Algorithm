@@ -29,4 +29,36 @@ public class _0053_maxSubArray {
         }
         return maxSum;
     }
+
+    /**
+     * 贪心法
+     *
+     * @param array 输入的数组
+     * @return 返回最大连续子数组和
+     */
+    int FindGreatestSumOfSubArray(int[] array) {
+        if (array.length == 0) {
+            return 0;
+        }
+        int maxNum = 0;
+        int tmpNum = array[0];
+        int minNum = Integer.MIN_VALUE;
+        for (int i = 1; i < array.length; i++) {
+            if (minNum < array[i]) {
+                minNum = array[i];
+            }
+            if (tmpNum < 0) {
+                tmpNum = array[i];
+            } else {
+                tmpNum += array[i];
+            }
+            if (maxNum < tmpNum) {
+                maxNum = tmpNum;
+            }
+        }
+        if (minNum < 0) {  // 对于数组全是负数处理方法
+            return minNum;
+        }
+        return maxNum;
+    }
 }
