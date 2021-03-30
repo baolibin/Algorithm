@@ -82,7 +82,8 @@
         - [leetCode235-二叉搜索树的最近公共祖先](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0235_lowestCommonAncestor.java)
 
 * [【5、图】]()
-    - 
+    - [5.1、深度优先遍历](src/main/com/libin/general/_05_graph/_01_DFS.java)
+    - [5.2、广度优先遍历](src/main/com/libin/general/_05_graph/_01_DFS.java) 
 
 * [【6、搜索】]()
     - [6.1、二分查找](src/main/com/libin/general/_06_search/_01_binarySearch.java)
@@ -90,6 +91,9 @@
 * [【7、DP】]()
     - [7.1、leetCode53-连续最大子数组和](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0053_maxSubArray.java)
     - [7.2、leetCode72-编辑距离](src/main/com/libin/leetcode_cn_algorithm/_0072_minDistance.java)
+    - [3.4、最长公共子串](src/main/com/libin/general/_07_dp/_05_LCSubstring.java)
+    - [3.3、最长公共子序列](src/main/com/libin/general/_07_dp/_01_LCS.java)
+    - [3.4、最长递增子序列](src/main/com/libin/general/_07_dp/_02_LIS.java)
 
 * [【8、海量数据】]()
     - [8.1、海量数据top词频统计-1个1G文件,每一行一个单词,每个单词不超过16字节,内存限制1M,返回词频数最高的100个单词]()
@@ -105,4 +109,5 @@
 
 * [【11、其它】]()
     - [11.1、剑指offer59-给定一个数组和滑动窗口大小，找出所有滑动窗口里数值的最大值](src/main/com/libin/offer/_65_slip_num_max.java)
+    - [11.2、0-1背包](src/main/com/libin/general/_07_dp/_03_knapsack.java)
 
