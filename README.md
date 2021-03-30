@@ -90,7 +90,7 @@
 
 * [【7、DP】]()
     - [7.1、leetCode53-连续最大子数组和](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0053_maxSubArray.java)
-    - [7.2、leetCode72-编辑距离](src/main/com/libin/leetcode_cn_algorithm/_0072_minDistance.java)
+    - [7.2、leetCode72-编辑距离](src/main/com/libin/leetcode_cn_algorithm/_5_dp/_0072_minDistance.java)
     - [3.4、最长公共子串](src/main/com/libin/general/_07_dp/_05_LCSubstring.java)
     - [3.3、最长公共子序列](src/main/com/libin/general/_07_dp/_01_LCS.java)
     - [3.4、最长递增子序列](src/main/com/libin/general/_07_dp/_02_LIS.java)
