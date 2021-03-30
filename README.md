@@ -41,7 +41,7 @@
     - [1.12、leetCode974-和可被K整除的子数组](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0974_subarraysDivByK.java)
     - [1.13、leetCode689-三个无重叠子数组的最大和]()
     - [1.14、leetCode718-最长重复子数组](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0718_findLength.java)
-    - [1.15、leetCode795-区间子数组个数]()
+    - [1.15、leetCode795-区间子数组个数](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0795_numSubarrayBoundedMax.java)
     - [1.16、leetCode907-子数组的最小值之和]()	
     - [1.17、leetCode891-子序列宽度之和]()
     - [1.18、leetCode918-环形子数组的最大和]()	
