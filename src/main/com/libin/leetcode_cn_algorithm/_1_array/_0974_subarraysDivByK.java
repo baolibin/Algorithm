@@ -16,23 +16,20 @@ import java.util.HashMap;
  * [4, 5, 0, -2, -3, 1], [5], [5, 0], [5, 0, -2, -3], [0], [0, -2, -3], [-2, -3]
  */
 public class _0974_subarraysDivByK {
-	// 对于 A 中前 i 个数的和，记录为 sum[i] ，那么根据同余定理有：
-	//(sum[i] - sum[j]) % k = 0 等价于 sum[i] % k = sum[j] % k
-	public int subarraysDivByK(int[] A, int K) {
-		HashMap<Integer, Integer> map = new HashMap<>();
-		// 对于下标为0的元素，前缀和为0，元素为1
-		map.put(0, 1);
-		int preSum = 0;
-		int count = 0;
-		for (int num : A) {
-			preSum += num;
-			if (map.containsKey(preSum - K) && (preSum - K) % K == 0) {
-				count++;
-			}
-			if ((preSum - K) % K == 0) {
-				map.put(preSum, map.getOrDefault(preSum, 0) + 1);
-			}
-		}
-		return count;
-	}
+    // 对于 A 中前 i 个数的和，记录为 sum[i] ，那么根据同余定理有：
+    //(sum[i] - sum[j]) % k = 0 等价于 sum[i] % k = sum[j] % k
+    public int subarraysDivByK(int[] A, int K) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        // 对于下标为0的元素，前缀和为0，元素为1
+        map.put(0, 1);
+        int preSum = 0, count = 0;
+        for (int num : A) {
+            preSum += num;
+            int mod = (preSum % K + K) % K;
+            int tmpCount = map.getOrDefault(mod, 0);
+            count += tmpCount;
+            map.put(mod, tmpCount + 1);
+        }
+        return count;
+    }
 }
