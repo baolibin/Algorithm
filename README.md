@@ -48,6 +48,7 @@
     - [1.19、leetCode978-最长湍流子数组]()
     - [1.20、leetCode1031-两个非重叠子数组的最大和]()
     - [1.21、leetCode1157-子数组中占绝大多数的元素]()
+    - [1.22、leetCode118-杨辉三角](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0118_generate.java)
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
