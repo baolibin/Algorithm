@@ -58,7 +58,7 @@
 
 * [【3、字符串】]()
     - [3.1、leetCode46-全排列](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0046_permute.java)
-    - [3.2、leetCode9-回文数：判断一个整数是否是回文数]()
+    - [3.2、leetCode9-回文数：判断一个整数是否是回文数](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0009_isPalindrome.java)
 
 * [【4、树】]()
     - [4.1、二叉树]()
