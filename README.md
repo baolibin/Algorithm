@@ -49,6 +49,7 @@
     - [1.20、leetCode1031-两个非重叠子数组的最大和]()
     - [1.21、leetCode1157-子数组中占绝大多数的元素]()
     - [1.22、leetCode118-杨辉三角](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0118_generate.java)
+    - [1.23、leetCode119-杨辉三角 II](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0119_getRow.java)
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)

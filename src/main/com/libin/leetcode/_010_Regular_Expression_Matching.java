@@ -3,7 +3,7 @@ package libin.leetcode;
 /**
  * 10. Regular Expression Matching
  */
-public class _10_Regular_Expression_Matching {
+class _10_Regular_Expression_Matching {
     public static void main(String[] args){
 
     }

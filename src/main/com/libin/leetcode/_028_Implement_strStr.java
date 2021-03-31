@@ -1,5 +1,5 @@
 package libin.leetcode;
-public class _28_Implement_strStr {
+class _28_Implement_strStr {
     public static void  main(String[] args){
         Solution28 solution28 = new Solution28();
         System.out.println(solution28.strStr("asdasd","asd"));

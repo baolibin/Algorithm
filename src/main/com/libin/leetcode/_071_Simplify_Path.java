@@ -2,7 +2,7 @@ package libin.leetcode;
 
 import java.util.Stack;
 
-public class _71_Simplify_Path {
+class _71_Simplify_Path {
 
     public static void main(String[] args) {
         Solution71 solution71 = new Solution71();

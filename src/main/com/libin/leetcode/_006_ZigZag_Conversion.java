@@ -3,7 +3,7 @@ package libin.leetcode;
 /**
  * Created by Administrator on 2017/1/8.
  */
-public class _6_ZigZag_Conversion {
+class _6_ZigZag_Conversion {
     public static void main(String[] args){
         String str="PAYPALISHIRING";
         Solution6 sl6 = new Solution6();

@@ -4,7 +4,7 @@ package libin.leetcode;
  Hint: Carefully consider all possible input cases.
  If you want a challenge, please do not see below and ask yourself what are the possible input cases.
  */
-public class _8_String_to_Integer {
+class _8_String_to_Integer {
     public static void main(String[] agrs){
         Solution8 s8=new Solution8();
         //System.out.println(s8.myAtoi("-12+3BBB54"));

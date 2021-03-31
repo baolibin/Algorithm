@@ -6,7 +6,7 @@ Reverse digits of an integer.
 Example1: x = 123, return 321
 Example2: x = -123, return -321
  */
-public class _7_Reverse_Integer {
+class _7_Reverse_Integer {
 	public static void main(String[] args) {
 		Solution7 solution7 = new Solution7();
 		System.out.println(solution7.reverse(-2143847412));

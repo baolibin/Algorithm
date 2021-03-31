@@ -3,7 +3,7 @@ package libin.leetcode;
 /**
  * Determine whether an integer is a palindrome. Do this without extra space.
  */
-public class _9_Palindrome_Number {
+class _9_Palindrome_Number {
     public static void main(String[] agrs){
         Solution9 solution9 = new Solution9();
         System.out.println(solution9.isPalindrome(12321));

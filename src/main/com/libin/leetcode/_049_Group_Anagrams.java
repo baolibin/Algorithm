@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _49_Group_Anagrams {
+class _49_Group_Anagrams {
     public static void main(String[] args) {
         Solution49 solution49 = new Solution49();
         String[] strings={"eat","tea","tan", "ate", "nat", "bat"};

@@ -3,7 +3,7 @@ package libin.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _68_Text_Justification {
+class _68_Text_Justification {
     public static void main(String[] args) {
         //String[] str={"This", "is", "an", "example", "of", "text", "justification."};
         //String str2="";

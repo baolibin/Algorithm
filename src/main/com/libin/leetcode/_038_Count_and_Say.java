@@ -1,5 +1,5 @@
 package libin.leetcode;
-public class _38_Count_and_Say {
+class _38_Count_and_Say {
     public static void main(String[] args) {
         Solution38 solution10 = new Solution38();
         System.out.println(solution10.countAndSay(1));

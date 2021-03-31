@@ -11,7 +11,7 @@ Given a string s, find the longest palindromic substring in s. You may assume th
  Input: "cbbd"
  Output: "bb"
  */
-public class _5_Longest_Palindromic_Substring {
+class _5_Longest_Palindromic_Substring {
     public static void main(String[] args) {
         Solution5 sl = new Solution5();
         String str1="sdsdaadhgh";

@@ -1,6 +1,6 @@
 package libin.leetcode;
 
-public class _43_Multiply_Strings {
+class _43_Multiply_Strings {
     public static void main(String[] args) {
         Solution43 solution43 = new Solution43();
         //solution43.multiply("121", "462");
