@@ -13,19 +13,17 @@ package libin.leetcode_cn_algorithm._1_array;
  * 尽量减少操作次数。
  */
 public class _0283_moveZeroes {
-    public void moveZeroes(int[] nums) {
-        int left = 0, right = 0;
-        while (left < nums.length && right < nums.length) {
-            while (left < nums.length && nums[right] == 0) {
-                // 左起第一个不为0的下标
-                right++;
-            }
-            while (left < right && nums[left] != 0) {
-                left++;
-            }
-            int tmp = nums[right];
-            nums[right] = nums[left];
-            nums[left] = tmp;
-        }
-    }
+	public void moveZeroes(int[] nums) {
+		// left左边均为非零数，right左边直到左指针处均为零
+		int left = 0, right = 0;
+		while (right < nums.length) {
+			if (nums[right] != 0) {
+				int tmp = nums[right];
+				nums[right] = nums[left];
+				nums[left] = tmp;
+				left++;
+			}
+			right++;
+		}
+	}
 }
