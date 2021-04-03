@@ -54,6 +54,9 @@
     - [1.25、leetCode283-移动零]()
     - [1.26、leetCode532-数组中的k-diff数对]()
     - [1.27、leetCode581-最短无序连续子数组]()
+    - [1.28、leetCode643-子数组最大平均数I]()
+    - [1.29、leetCode665-非递减数列]()
+    - [1.30、leetCode697-数组的度]()
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
