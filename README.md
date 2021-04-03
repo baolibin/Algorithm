@@ -52,7 +52,8 @@
     - [1.23、leetCode119-杨辉三角 II](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0119_getRow.java)
     - [1.24、leetCode219-存在重复元素 II](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0219_containsNearbyDuplicate.java)
     - [1.25、leetCode283-移动零]()
-    - [1.25、leetCode532-数组中的k-diff数对]()
+    - [1.26、leetCode532-数组中的k-diff数对]()
+    - [1.27、leetCode581-最短无序连续子数组]()
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
