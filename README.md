@@ -75,7 +75,7 @@
     - [3.7、leetCode541-反转字符串II](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0541_reverseStr.java)
     - [3.8、leetCode345-反转字符串中的元音字母](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0345_reverseVowels.java) 
     - [3.9、leetCode434-字符串中的单词数](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0434_countSegments.java)  
-    - [3.10、leetCode443-压缩字符串]()
+    - [3.10、leetCode443-压缩字符串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0443_compress.java)
     - [3.11、leetCode67-二进制求和]()
     - [3.12、leetCode20-有效的括号]()
     - [3.13、leetCode680-验证回文字符串Ⅱ]()
