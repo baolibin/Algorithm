@@ -1,5 +1,7 @@
 package libin.leetcode_cn_algorithm._3_character;
 
+import java.util.HashMap;
+
 /**
  * Copyright (c) 2021/4/1. libin Inc. All Rights Reserved.
  * Authors: libin <libin>
@@ -17,7 +19,37 @@ package libin.leetcode_cn_algorithm._3_character;
  * 输出：true
  */
 public class _0383_canConstruct {
-    public boolean canConstruct(String ransomNote, String magazine) {
-        return false;
-    }
+	/**
+	 * 解题思路：
+	 * 1、利用哈希表，存储赎金信需要的字符数量
+	 * 2、然后遍历杂志字符串，在哈希表中把需要的数量减一
+	 * 3、最后遍历哈希表，如果有字符还没减到0，说明不能满足，返回false
+	 */
+	public boolean canConstruct(String ransomNote, String magazine) {
+		HashMap<Character, Integer> map = new HashMap<>();
+		char[] patternChars = magazine.toCharArray();
+		for (char patternChar : patternChars) {
+			int count = map.getOrDefault(patternChar, 0);
+			map.put(patternChar, count + 1);
+		}
+		char[] matchChars = ransomNote.toCharArray();
+		for (char matchChar : matchChars) {
+			int count = map.getOrDefault(matchChar, 0);
+			if (count == 0) return false;
+			map.put(matchChar, count - 1);
+		}
+		return true;
+	}
+
+	public boolean canConstruct2(String ransomNote, String magazine) {
+		int[] cnt = new int[26];
+		for (char c : magazine.toCharArray()) {
+			cnt[c - 'a']++;
+		}
+		for (char c : ransomNote.toCharArray()) {
+			cnt[c - 'a']--;
+			if (cnt[c - 'a'] < 0) return false;
+		}
+		return true;
+	}
 }
