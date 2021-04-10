@@ -41,6 +41,9 @@ public class _0383_canConstruct {
 		return true;
 	}
 
+	/**
+	 * 解法2：
+	 */
 	public boolean canConstruct2(String ransomNote, String magazine) {
 		int[] cnt = new int[26];
 		for (char c : magazine.toCharArray()) {
