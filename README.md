@@ -78,7 +78,7 @@
     - [3.10、leetCode443-压缩字符串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0443_compress.java)
     - [3.11、leetCode67-二进制求和](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0067_addBinary.java)
     - [3.12、leetCode20-有效的括号](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0020_isValid.java)
-    - [3.13、leetCode680-验证回文字符串Ⅱ]()
+    - [3.13、leetCode680-验证回文字符串Ⅱ](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0680_validPalindrome.java)
     - [3.14、leetCode58-最后一个单词的长度]()
     - [3.15、leetCode14-最长公共前缀](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0014_longestCommonPrefix.java)
     - [3.16、leetCode686-重复叠加字符串匹配]()
