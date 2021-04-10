@@ -18,7 +18,14 @@ package libin.leetcode_cn_algorithm._3_character;
  * 输出: False
  */
 public class _0551_checkRecord {
-    public boolean checkRecord(String s) {
-        return false;
-    }
+	public boolean checkRecord(String s) {
+		char[] chars = s.toCharArray();
+		int countA = 0;
+		for (int i = 0; i < chars.length && countA < 2; i++) {
+			if (chars[i] == 'A') countA++;
+			if (i < chars.length - 2 && chars[i] == 'L' && chars[i + 1] == 'L' && chars[i + 2] == 'L')
+				return false;
+		}
+		return countA < 2;
+	}
 }

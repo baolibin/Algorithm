@@ -15,7 +15,21 @@ package libin.leetcode_cn_algorithm._3_character;
  * 给定字符串的长度和 k 在 [1, 10000] 范围内。
  */
 public class _0541_reverseStr {
-    public String reverseStr(String s, int k) {
-        return null;
-    }
+	/**
+	 * 暴力解法：
+	 * 直接翻转每个 2k 字符块。
+	 */
+	public String reverseStr(String s, int k) {
+		char[] chars = s.toCharArray();
+		for (int i = 0; i < chars.length; i += 2 * k) {
+			int end = Math.min(i + k - 1, chars.length - 1);
+			int start = i;
+			while (start < end) {
+				char tmp = chars[start];
+				chars[start++] = chars[end];
+				chars[end--] = tmp;
+			}
+		}
+		return String.valueOf(chars);
+	}
 }
