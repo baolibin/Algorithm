@@ -12,7 +12,21 @@ package libin.leetcode_cn_algorithm._3_character;
  * 返回 2
  */
 public class _0387_firstUniqChar {
-    public int firstUniqChar(String s) {
-        return 0;
-    }
+	/**
+	 * 解题思路：
+	 * 使用数组计数
+	 */
+	public int firstUniqChar(String s) {
+		int[] arr = new int[26];
+		char[] chars = s.toCharArray();
+		for (int i = 0; i < chars.length; i++) {
+			arr[chars[i] - 'a']++;
+		}
+		for (int i = 0; i < chars.length; i++) {
+			if (arr[chars[i] - 'a'] == 1) {
+				return i;
+			}
+		}
+		return -1;
+	}
 }
