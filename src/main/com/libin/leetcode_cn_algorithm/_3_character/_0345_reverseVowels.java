@@ -13,7 +13,31 @@ package libin.leetcode_cn_algorithm._3_character;
  * 输出："leotcede"
  */
 public class _0345_reverseVowels {
-    public String reverseVowels(String s) {
-        return null;
-    }
+	public String reverseVowels(String s) {
+		char[] chars = s.toCharArray();
+		int start = 0;
+		int end = chars.length - 1;
+		while (start < end) {
+			while (start < end && !judge(chars[start])) {
+				start++;
+			}
+			while (end > start && !judge(chars[end])) {
+				end--;
+			}
+			char tmp = chars[start];
+			chars[start++] = chars[end];
+			chars[end--] = tmp;
+		}
+		return String.valueOf(chars);
+	}
+
+	boolean judge(char chars) {
+		if (chars == 'A' || chars == 'E' || chars == 'I' || chars == 'O' || chars == 'U'
+				|| chars == 'a' || chars == 'e' || chars == 'i' || chars == 'o' || chars == 'u') {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
 }

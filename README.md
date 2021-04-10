@@ -73,7 +73,7 @@
     - [3.5、leetCode387-字符串中的第一个唯一字符](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0387_firstUniqChar.java)  
     - [3.6、leetCode551-学生出勤记录I](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0551_checkRecord.java)	
     - [3.7、leetCode541-反转字符串II](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0541_reverseStr.java)
-    - [3.8、leetCode345-反转字符串中的元音字母]() 
+    - [3.8、leetCode345-反转字符串中的元音字母](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0345_reverseVowels.java) 
     - [3.9、leetCode434-字符串中的单词数]()  
     - [3.10、leetCode443-压缩字符串]()
     - [3.11、leetCode67-二进制求和]()
