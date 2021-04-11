@@ -57,6 +57,7 @@
     - [1.28、leetCode643-子数组最大平均数I]()
     - [1.29、leetCode665-非递减数列]()
     - [1.30、leetCode697-数组的度]()
+    - [1.30、leetCode136-只出现一次的数字](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0136_singleNumber.java)
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
