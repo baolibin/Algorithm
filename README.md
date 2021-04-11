@@ -64,6 +64,7 @@
     - [2.3、剑指offer22-链表倒数第K个节点](src/main/com/libin/offer/_15_linked_K.java)
     - [2.4、leetCode21-合并两个有序链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0021_mergeTwoLists.java)
     - [2.5、leetCode82-删除排序链表中的重复元素](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0083_deleteDuplicates.java)
+    - [2.6、leetCode61-旋转链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0061_rotateRight.java)
 
 * [【3、字符串】]()
     - [3.1、leetCode46-全排列](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0046_permute.java)
@@ -136,6 +137,9 @@
 * [【11、其它】]()
     - [11.1、剑指offer59-给定一个数组和滑动窗口大小，找出所有滑动窗口里数值的最大值](src/main/com/libin/offer/_65_slip_num_max.java)
     - [11.2、0-1背包](src/main/com/libin/general/_07_dp/_03_knapsack.java)
+    - [11.3、丑数II](src/main/com/libin/leetcode_cn_algorithm/_0264_nthUglyNumber.java)
+    - [11.4、外观数列](src/main/com/libin/leetcode_cn_algorithm/_0038_countAndSay.java)
+    - [11.5、加一](src/main/com/libin/leetcode_cn_algorithm/_0066_plusOne.java)
 
 
 ---
