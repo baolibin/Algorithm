@@ -81,8 +81,8 @@
     - [3.13、leetCode680-验证回文字符串Ⅱ](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0680_validPalindrome.java)
     - [3.14、leetCode58-最后一个单词的长度](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0058_lengthOfLastWord.java)
     - [3.15、leetCode14-最长公共前缀](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0014_longestCommonPrefix.java)
-    - [3.16、leetCode686-重复叠加字符串匹配]()
-    - [3.17、leetCode28(KMP类型)-实现strStr()](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0028_strStr.java)
+    - [3.16、leetCode686(Rabin Karp)-重复叠加字符串匹配](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0686_repeatedStringMatch.java)
+    - [3.17、leetCode28(KMP类型&Rabin Karp)-实现strStr()](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0028_strStr.java)
     - [3.18、leetCode125-验证回文串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0125_isPalindrome.java)
 
 * [【4、树】]()
@@ -136,3 +136,20 @@
     - [11.1、剑指offer59-给定一个数组和滑动窗口大小，找出所有滑动窗口里数值的最大值](src/main/com/libin/offer/_65_slip_num_max.java)
     - [11.2、0-1背包](src/main/com/libin/general/_07_dp/_03_knapsack.java)
 
+
+---
+##### 常用算法解题思路
+* 数组
+    - 双指针
+* 链表
+    - 快慢指针
+* 字符串
+    - Hash结构辅助
+    - 位图
+    - 双指针窗口
+    - DP
+    - KMP算法
+    - Rabin-Karp算法
+* 树
+    - 递归
+---
