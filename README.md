@@ -68,6 +68,7 @@
     - [2.5、leetCode82-删除排序链表中的重复元素](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0083_deleteDuplicates.java)
     - [2.6、leetCode61-旋转链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0061_rotateRight.java)
     - [2.7、leetCode160-相交链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0160_getIntersectionNode.java)
+    - [2.8、leetCode148-排序链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0148_sortList.java)
 
 * [【3、字符串】]()
     - [3.1、leetCode46-全排列](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0046_permute.java)
