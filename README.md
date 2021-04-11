@@ -145,6 +145,7 @@
     - [11.3、丑数II](src/main/com/libin/leetcode_cn_algorithm/_0264_nthUglyNumber.java)
     - [11.4、外观数列](src/main/com/libin/leetcode_cn_algorithm/_0038_countAndSay.java)
     - [11.5、加一](src/main/com/libin/leetcode_cn_algorithm/_0066_plusOne.java)
+    - [11.6、阶乘后的零](src/main/com/libin/leetcode_cn_algorithm/_0172_trailingZeroes.java)
 
 
 ---
