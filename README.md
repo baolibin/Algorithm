@@ -68,7 +68,7 @@
 * [【3、字符串】]()
     - [3.1、leetCode46-全排列](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0046_permute.java)
     - [3.2、leetCode9-回文数：判断一个整数是否是回文数](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0009_isPalindrome.java)
-    - [3.3、leetCode459-重复的子字符串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0459_repeatedSubstringPattern.java)
+    - [3.3、leetCode459(KMP类型)-重复的子字符串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0459_repeatedSubstringPattern.java)
     - [3.4、leetCode383-赎金信](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0383_canConstruct.java)
     - [3.5、leetCode387-字符串中的第一个唯一字符](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0387_firstUniqChar.java)  
     - [3.6、leetCode551-学生出勤记录I](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0551_checkRecord.java)	
@@ -82,7 +82,7 @@
     - [3.14、leetCode58-最后一个单词的长度](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0058_lengthOfLastWord.java)
     - [3.15、leetCode14-最长公共前缀](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0014_longestCommonPrefix.java)
     - [3.16、leetCode686-重复叠加字符串匹配]()
-    - [3.17、leetCode28-实现strStr()]()
+    - [3.17、leetCode28(KMP类型)-实现strStr()](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0028_strStr.java)
     - [3.18、leetCode125-验证回文串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0125_isPalindrome.java)
 
 * [【4、树】]()
