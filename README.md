@@ -84,6 +84,7 @@
     - [3.16、leetCode686(Rabin Karp)-重复叠加字符串匹配](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0686_repeatedStringMatch.java)
     - [3.17、leetCode28(KMP类型&Rabin Karp)-实现strStr()](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0028_strStr.java)
     - [3.18、leetCode125-验证回文串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0125_isPalindrome.java)
+    - [3.19、leetCode5(DP&Manacher)-最长回文子串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0005_longestPalindrome.java)
 
 * [【4、树】]()
     - [4.1、二叉树]()
@@ -149,6 +150,7 @@
     - 双指针窗口
     - DP
     - KMP算法
+    - Manacher算法
     - Rabin-Karp算法
 * 树
     - 递归
