@@ -148,6 +148,7 @@
     - [11.5、加一](src/main/com/libin/leetcode_cn_algorithm/_0066_plusOne.java)
     - [11.6、阶乘后的零](src/main/com/libin/leetcode_cn_algorithm/_0172_trailingZeroes.java)
     - [11.7、Excel表列名称](src/main/com/libin/leetcode_cn_algorithm/_0168_convertToTitle.java)
+    - [11.8、位1的个数](src/main/com/libin/leetcode_cn_algorithm/_0191_hammingWeight.java)
 
 
 ---
