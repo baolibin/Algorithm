@@ -115,8 +115,8 @@
         - [leetCode235-二叉搜索树的最近公共祖先](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0235_lowestCommonAncestor.java)
         - [leetCode108-将有序数组转换为二叉搜索树](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0108_sortedArrayToBST.java)
         - [leetCode112(递归&DFS&BFS)-路径总和](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0112_hasPathSum.java)
-        - [leetCode257-二叉树的所有路径]()
-        - [leetCode297-二叉树的序列化与反序列化]()
+        - [leetCode257-二叉树的所有路径](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0257_binaryTreePaths.java)
+        - [leetCode297-二叉树的序列化与反序列化](src/main/com/libin/leetcode_cn_algorithm/_4_tree/_0297_Codec.java)
 
 * [【5、图】]()
     - [5.1、深度优先遍历](src/main/com/libin/general/_05_graph/_01_DFS.java)
@@ -154,6 +154,7 @@
     - [11.7、Excel表列名称](src/main/com/libin/leetcode_cn_algorithm/_0168_convertToTitle.java)
     - [11.8、位1的个数](src/main/com/libin/leetcode_cn_algorithm/_0191_hammingWeight.java)
     - [11.9、leetCode202-快乐数](src/main/com/libin/leetcode_cn_algorithm/_0202_isHappy.java)
+    - [11.10、leetCode258-各位相加](src/main/com/libin/leetcode_cn_algorithm/_0258_addDigits.java)
 
 ---
 ##### 常用算法解题思路
