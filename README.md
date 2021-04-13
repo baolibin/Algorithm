@@ -60,7 +60,7 @@
     - [1.30、leetCode136-只出现一次的数字](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0136_singleNumber.java)
     - [1.31、leetCode167-两数之和II-输入有序数组](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0167_twoSum.java)
 
-* [【2、链表】]()
+* [【2、链表】]() 回文链表
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
     - [2.2、leetCode142-给定链表，若其中有环，找出该链表的环的入口节点](src/main/com/libin/offer/_56_hoop_start.java)
     - [2.3、剑指offer22-链表倒数第K个节点](src/main/com/libin/offer/_15_linked_K.java)
@@ -69,6 +69,7 @@
     - [2.6、leetCode61-旋转链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0061_rotateRight.java)
     - [2.7、leetCode160-相交链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0160_getIntersectionNode.java)
     - [2.8、leetCode148-排序链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0148_sortList.java)
+    - [2.9、leetCode234-回文链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0234_isPalindrome.java)
 
 * [【3、字符串】]()
     - [3.1、leetCode46-全排列](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0046_permute.java)
