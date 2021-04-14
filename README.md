@@ -158,6 +158,7 @@
     - [11.8、位1的个数](src/main/com/libin/leetcode_cn_algorithm/_0191_hammingWeight.java)
     - [11.9、leetCode202-快乐数](src/main/com/libin/leetcode_cn_algorithm/_0202_isHappy.java)
     - [11.10、leetCode258-各位相加](src/main/com/libin/leetcode_cn_algorithm/_0258_addDigits.java)
+    - [11.11、leetCode367-有效的完全平方数](src/main/com/libin/leetcode_cn_algorithm/_0258_addDigits.java)
 
 ---
 ##### 常用算法解题思路
