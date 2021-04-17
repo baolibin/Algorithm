@@ -23,7 +23,49 @@ package libin.leetcode_cn_algorithm._3_character;
  * 输出："a"
  */
 public class _0389_findTheDifference {
+	/**
+	 * 方法一：计数
+	 */
 	public char findTheDifference(String s, String t) {
-		return 'a';
+		int[] cnt = new int[256];
+		for (int i = 0; i < s.length(); i++) {
+			cnt[s.charAt(i) - 'a']++;
+		}
+		for (int i = 0; i < t.length(); i++) {
+			int index = t.charAt(i) - 'a';
+			cnt[index]--;
+			if (cnt[index] < 0) {
+				return t.charAt(i);
+			}
+		}
+		return ' ';
+	}
+
+	/**
+	 * 方法二：求和
+	 */
+	public char findTheDifference2(String s, String t) {
+		int cntS = 0, conT = 0;
+		for (int i = 0; i < s.length(); i++) {
+			cntS += s.charAt(i);
+		}
+		for (int i = 0; i < t.length(); i++) {
+			conT += t.charAt(i);
+		}
+		return (char) (conT - cntS);
+	}
+
+	/**
+	 * 方法三：位运算
+	 */
+	public char findTheDifference3(String s, String t) {
+		int res = 0;
+		for (int i = 0; i < s.length(); i++) {
+			res ^= s.charAt(i);
+		}
+		for (int i = 0; i < t.length(); i++) {
+			res ^= t.charAt(i);
+		}
+		return (char) res;
 	}
 }

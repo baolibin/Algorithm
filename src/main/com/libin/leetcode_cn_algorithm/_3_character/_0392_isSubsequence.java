@@ -12,6 +12,14 @@ package libin.leetcode_cn_algorithm._3_character;
  */
 public class _0392_isSubsequence {
 	public boolean isSubsequence(String s, String t) {
-		return false;
+		int cntS = s.length(), cntT = t.length();
+		int i = 0, j = 0;
+		while (i < cntS && j < cntT) {
+			if (s.charAt(i) == t.charAt(j)) {
+				i++;
+			}
+			j++;
+		}
+		return cntS == i;
 	}
 }
