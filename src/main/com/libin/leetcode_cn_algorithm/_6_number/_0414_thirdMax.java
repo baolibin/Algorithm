@@ -22,8 +22,8 @@ package libin.leetcode_cn_algorithm._6_number;
  */
 public class _0414_thirdMax {
 	public int thirdMax(int[] nums) {
-		int max = nums[0], mid = Integer.MIN_VALUE, min = Integer.MIN_VALUE;
-		for (int i = 1; i < nums.length; i++) {
+		long max = Long.MIN_VALUE, mid = Long.MIN_VALUE, min = Long.MIN_VALUE;
+		for (int i = 0; i < nums.length; i++) {
 			if (nums[i] > max) {
 				min = mid;
 				mid = max;
@@ -35,6 +35,6 @@ public class _0414_thirdMax {
 				min = nums[i];
 			}
 		}
-		return min == -1 ? max : min;
+		return (int) (min == Long.MIN_VALUE ? max : min);
 	}
 }
