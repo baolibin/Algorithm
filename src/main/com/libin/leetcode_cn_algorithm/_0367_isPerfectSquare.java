@@ -15,7 +15,30 @@ package libin.leetcode_cn_algorithm;
  * 输出：false
  */
 public class _0367_isPerfectSquare {
+	/**
+	 * 解题思路： 二分查找
+	 */
 	public boolean isPerfectSquare(int num) {
+
+		long low = 0;
+		// int high = Math.min(num, 46340);
+		long high = Math.min(num, 1 << 16);
+		while (low <= high) {
+			long middle = low + (high - low) / 2;
+			long square = middle * middle;
+			System.out.println("square=" + square);
+			if (square == num) {
+				return true;
+			} else if (square < num) {
+				low = middle + 1;
+			} else {
+				high = middle - 1;
+			}
+		}
 		return false;
+	}
+
+	public static void main(String[] args) {
+		System.out.println(Integer.MAX_VALUE);
 	}
 }
