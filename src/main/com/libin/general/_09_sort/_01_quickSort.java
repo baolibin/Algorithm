@@ -6,7 +6,8 @@ package libin.general._09_sort;
  */
 public class _01_quickSort {
 	public static void main(String[] args) {
-		int[] tmpNum = {32, 12, 76, 3, 9, 26, 72, 9, 2, 54, 3, 23}; //待排序的数组
+		// int[] tmpNum = {32, 12, 76, 3, 9, 26, 72, 9, 2, 54, 3, 23}; //待排序的数组
+		int[] tmpNum = {1, 2, 3, 2};
 		Sort sort = new Sort(tmpNum);
 		sort.sortScheduler(0, tmpNum.length - 1, tmpNum);
 		sort.print();
@@ -28,11 +29,11 @@ class Sort {
 	 */
 	public void sortScheduler(int low, int hight, int[] tmpNum) {
 		if (low < hight) {
-			int middle = sortNum(0, hight, tmpNum);
-			if (middle > 0 && middle < hight) {
-				sortScheduler(0, middle - 1, tmpNum);
+			int middle = sortNum(low, hight, tmpNum);
+			//if (middle > low && middle < hight) {
+				sortScheduler(low, middle - 1, tmpNum);
 				sortScheduler(middle + 1, hight, tmpNum);
-			}
+			//}
 		}
 	}
 
