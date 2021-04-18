@@ -60,6 +60,7 @@
     - [1.30、leetCode136-只出现一次的数字](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0136_singleNumber.java)
     - [1.31、leetCode167-两数之和II-输入有序数组](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0167_twoSum.java)
     - [1.32、leetCode350-两个数组的交集II](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0350_intersect.java)
+    - [1.33、leetCode448-找到所有数组中消失的数字](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0448_findDisappearedNumbers.java)
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
