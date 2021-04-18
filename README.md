@@ -100,6 +100,7 @@
     - [3.22、leetCode389-找不同](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0389_findTheDifference.java)
     - [3.23、leetCode344-反转字符串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0344_reverseString.java)
     - [3.24、leetCode415-字符串相加](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0415_addStrings.java)
+    - [3.25、leetCode520-检测大写字母](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0520_detectCapitalUse.java)
 
 * [【4、树】]()
     - [4.1、二叉树]()
@@ -154,6 +155,8 @@
 
 * [【11、数字】]()
     - [11.1、leetCode414-第三大的数](src/main/com/libin/leetcode_cn_algorithm/_6_number/_0414_thirdMax.java)
+    - [11.2、leetCode441-排列硬币](src/main/com/libin/leetcode_cn_algorithm/_6_number/_0441_arrangeCoins.java)
+    - [11.3、leetCode461-汉明距离](src/main/com/libin/leetcode_cn_algorithm/_6_number/_0441_arrangeCoins.java)
 
 * [【12、其它】]()
     - [12.1、剑指offer59-给定一个数组和滑动窗口大小，找出所有滑动窗口里数值的最大值](src/main/com/libin/offer/_65_slip_num_max.java)
