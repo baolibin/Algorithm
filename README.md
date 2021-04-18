@@ -72,6 +72,7 @@
     - [2.8、leetCode148-排序链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0148_sortList.java)
     - [2.9、leetCode234-回文链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0234_isPalindrome.java)
     - [2.10、leetCode328-奇偶链表](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0328_oddEvenList.java)
+    - [2.11、leetCode445-链表相加](src/main/com/libin/leetcode_cn_algorithm/_2_linked/_0445_addTwoNumbers.java)
 
 * [【3、字符串】]()
     - [3.1、leetCode46-全排列](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0046_permute.java)
@@ -94,8 +95,8 @@
     - [3.18、leetCode125-验证回文串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0125_isPalindrome.java)
     - [3.19、leetCode5(DP&Manacher)-最长回文子串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0005_longestPalindrome.java)
     - [3.20、leetCode205-同构字符串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0205_isIsomorphic.java)
-    - [3.21、leetCode392-判断子序列]()
-    - [3.22、leetCode389-找不同]()
+    - [3.21、leetCode392-判断子序列](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0392_isSubsequence.java)
+    - [3.22、leetCode389-找不同](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0389_findTheDifference.java)
     - [3.23、leetCode344-反转字符串](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0344_reverseString.java)
     - [3.24、leetCode415-字符串相加](src/main/com/libin/leetcode_cn_algorithm/_3_character/_0415_addStrings.java)
 
