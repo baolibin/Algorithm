@@ -1,5 +1,7 @@
 package libin.leetcode_cn_algorithm._1_array;
 
+import java.util.Arrays;
+
 /**
  * Copyright (c) 2021/4/11. libin Inc. All Rights Reserved.
  * Authors: libin <libin>
@@ -18,8 +20,24 @@ package libin.leetcode_cn_algorithm._1_array;
  * 输出：444
  */
 public class _0907_sumSubarrayMins {
+	/**
+	 * 超出时间限制
+	 */
 	public int sumSubarrayMins(int[] arr) {
-
-		return 0;
+		double mod = Math.pow(10, 9) + 7;
+		if (arr.length == 1)
+			return arr[0];
+		int len = arr.length;
+		int[] flag = Arrays.copyOf(arr, arr.length);
+		for (int i = 1; i < len; i++) {
+			int tmpSum = 0;
+			int minFlag = arr[i];
+			for (int j = i; j >= 0; j--) {
+				minFlag = Math.min(minFlag, arr[j]);
+				tmpSum += minFlag;
+			}
+			flag[i] = (int) ((int) (flag[i - 1] + tmpSum) % mod);
+		}
+		return flag[len - 1];
 	}
 }
