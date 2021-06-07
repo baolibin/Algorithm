@@ -22,6 +22,7 @@ public class _0560_subarraySum {
 		int count = 0;
 		for (int num : nums) {
 			preSum += num;
+			// 两个前缀和相减等于K，则找到一个和为k的连续子数组
 			if (map.containsKey(preSum - k)) {
 				count += map.get(preSum - k);
 			}
