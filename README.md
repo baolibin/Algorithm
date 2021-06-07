@@ -50,18 +50,6 @@
     - [1.21、leetCode350-两个数组的交集II](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0350_intersect.java)
     - [1.22、leetCode448-找到所有数组中消失的数字](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0448_findDisappearedNumbers.java)
     - [1.23、leetCode561-数组拆分I](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0561_arrayPairSum.java)
-    - [1.24、leetCode907-子数组的最小值之和]()	
-    - [1.25、leetCode891-子序列宽度之和]()
-    - [1.26、leetCode918-环形子数组的最大和]()
-    - [1.27、leetCode978-最长湍流子数组]()
-    - [1.28、leetCode1031-两个非重叠子数组的最大和]()
-    - [1.29、leetCode1157-子数组中占绝大多数的元素]()
-    - [1.30、leetCode532-数组中的k-diff数对]()
-    - [1.31、leetCode581-最短无序连续子数组]()
-    - [1.32、leetCode643-子数组最大平均数I]()
-    - [1.33、leetCode665-非递减数列]()
-    - [1.34、leetCode697-数组的度]()
-    - [1.35、leetCode689-三个无重叠子数组的最大和]()
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)
@@ -180,7 +168,9 @@
 ---
 ##### 常用算法解题思路
 * 数组
+    - 二分
     - 双指针
+    - DP
 * 链表
     - 快慢指针
 * 字符串
