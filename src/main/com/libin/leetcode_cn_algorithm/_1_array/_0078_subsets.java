@@ -31,8 +31,10 @@ public class _0078_subsets {
 			res.add(new ArrayList<>(curList));
 			return;
 		}
+		// 子集包括 下标为curIndex 的元素
 		curList.add(nums[curIndex]);
 		subsetNums(curIndex + 1, nums);
+		// 子集不包括 下标为curIndex 的元素
 		curList.remove(curList.size() - 1);
 		subsetNums(curIndex + 1, nums);
 	}
