@@ -15,6 +15,7 @@ import java.util.HashMap;
 public class _0560_subarraySum {
     // 前缀和
 	int subarraySum(int[] nums, int k) {
+		// 数据存在负数,map存储指定前缀和有多少个
 		HashMap<Integer, Integer> map = new HashMap<>();
 		// 对于下标为0的元素，前缀和为0，元素为1
 		map.put(0, 1);
