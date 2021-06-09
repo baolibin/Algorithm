@@ -121,7 +121,7 @@
 
 * [【5、图】]()
     - [5.1、深度优先遍历](src/main/com/libin/general/_05_graph/_01_DFS.java)
-    - [5.2、广度优先遍历](src/main/com/libin/general/_05_graph/_01_DFS.java) 
+    - [5.2、广度优先遍历](src/main/com/libin/general/_05_graph/_02_BFS.java) 
 
 * [【6、搜索】]()
     - [6.1、二分查找](src/main/com/libin/general/_06_search/_01_binarySearch.java)
