@@ -29,20 +29,39 @@ package libin.leetcode_cn_algorithm;
  * 0 ≤ N ≤ 30
  */
 public class _0509_fib {
-    public int fib(int N) {
-        if (N == 0) {
-            return 0;
-        }
-        if (N <= 2) {
-            return 1;
-        }
-        int first = 1, second = 1;
-        int res = 0;
-        for (int i = 3; i <= N; i++) {
-            res = first + second;
-            first = second;
-            second = res;
-        }
-        return res;
-    }
+	/**
+	 * 解法一：迭代
+	 */
+	public int fib(int N) {
+		if (N == 0) {
+			return 0;
+		}
+		if (N <= 2) {
+			return 1;
+		}
+		int first = 1, second = 1;
+		int res = 0;
+		for (int i = 3; i <= N; i++) {
+			res = first + second;
+			first = second;
+			second = res;
+		}
+		return res;
+	}
+
+	/**
+	 * 解法二：递归
+	 */
+	public int fibRecursion(int n) {
+		return n < 2 ? 1 : fibRecursion(n - 1) + fibRecursion(n - 2);
+	}
+
+	/**
+	 * 解法三：尾递归
+	 * 尾递归就是把当前的运算结果（或路径）放在参数里传给下层函数
+	 * 因为是尾部, 所以根本没有必要去保存任何局部变量.
+	 */
+	public int fibTailRecursion(int n, int x, int y) {
+		return n == 0 ? x : fibTailRecursion(n - 1, y, x + y);
+	}
 }
