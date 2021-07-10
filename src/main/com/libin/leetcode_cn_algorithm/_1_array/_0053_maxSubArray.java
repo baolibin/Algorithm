@@ -33,31 +33,18 @@ public class _0053_maxSubArray {
     /**
      * 贪心法
      *
-     * @param array 输入的数组
+     * @param nums 输入的数组
      * @return 返回最大连续子数组和
      */
-    int FindGreatestSumOfSubArray(int[] array) {
-        if (array.length == 0) {
-            return 0;
-        }
-        int maxNum = 0;
-        int tmpNum = array[0];
-        int minNum = Integer.MIN_VALUE;
-        for (int i = 1; i < array.length; i++) {
-            if (minNum < array[i]) {
-                minNum = array[i];
+    int FindGreatestSumOfSubArray(int[] nums) {
+        int maxNum = Integer.MIN_VALUE;
+        int curCount = 0;
+        for (int i = 0; i < nums.length; i++) {
+            curCount += nums[i];
+            maxNum = Math.max(curCount,maxNum);
+            if (curCount < 0) {
+                curCount = 0;
             }
-            if (tmpNum < 0) {
-                tmpNum = array[i];
-            } else {
-                tmpNum += array[i];
-            }
-            if (maxNum < tmpNum) {
-                maxNum = tmpNum;
-            }
-        }
-        if (minNum < 0) {  // 对于数组全是负数处理方法
-            return minNum;
         }
         return maxNum;
     }
