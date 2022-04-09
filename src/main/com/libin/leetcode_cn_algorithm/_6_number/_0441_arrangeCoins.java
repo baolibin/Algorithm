@@ -25,11 +25,15 @@ package libin.leetcode_cn_algorithm._6_number;
  * 因为第四行不完整，所以返回3.
  */
 public class _0441_arrangeCoins {
+	public static void main(String[] args) {
+		System.out.println(new _0441_arrangeCoins().arrangeCoins(8));
+	}
 	public int arrangeCoins(int n) {
 		long left = 0, right = n;
 		while (left < right) {
 			long mid = left + (right - left + 1) / 2;
 			long sum = mid * (1 + mid) / 2;
+			System.out.println("left="+left+",right="+right+",mid="+mid+",sum="+sum);
 			if (sum > n) {
 				right = mid - 1;
 			} else {

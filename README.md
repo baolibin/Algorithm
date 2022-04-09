@@ -50,6 +50,9 @@
     - [1.21、leetCode350-两个数组的交集II](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0350_intersect.java)
     - [1.22、leetCode448-找到所有数组中消失的数字](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0448_findDisappearedNumbers.java)
     - [1.23、leetCode561-数组拆分I](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0561_arrayPairSum.java)
+    - [1.24、顺时针打印矩阵](src/main/com/libin/offer/_20_printMatrix.java)
+    - [1.25、接雨水](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0042_trapping_rain_water.java)
+    - [1.25、接雨水 II](src/main/com/libin/leetcode_cn_algorithm/_1_array/_0407_trapping_rain_water_ii.java)
 
 * [【2、链表】]()
     - [2.1、leetCode206-单链表反转](src/main/com/libin/offer/_16_linked_reversal.java)

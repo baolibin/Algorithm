@@ -28,7 +28,7 @@ public class _0078_subsets {
 
 	/**
 	 * 时间复杂度：O(n * 2 ^ n)。一共 2^n 个状态，每种状态需要 O(n) 的时间来构造子集。
-	 * 空间复杂度：O(n)。临时数组 tt 的空间代价是 O(n)，递归时栈空间的代价为 O(n)。
+	 * 空间复杂度：O(n)。临时数组 t 的空间代价是 O(n)，递归时栈空间的代价为 O(n)。
 	 */
 	public void subsetNums(int curIndex, int[] nums) {
 		if (curIndex == nums.length) {
